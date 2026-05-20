@@ -48,7 +48,9 @@
     .footer { text-align: center; padding: 2rem; font-size: 0.85rem; color: var(--text-light); }
   </style>
 </head>
-<body>
+<body data-page="login">
+  <div id="local-lang-switcher" style="position:fixed;top:0.75rem;right:0.75rem;z-index:2147483647;padding:0.35rem 0.55rem;border:1px solid rgba(0,0,0,.14);border-radius:6px;background:rgba(255,255,255,.94);font-family:Arial,Helvetica,sans-serif;font-size:0.9rem;color:#0e2240;box-shadow:0 10px 24px rgba(0,0,0,.12);">Language: <button type="button" data-lang="en-US" class="lang-button active" style="border:none;background:none;color:#0056b3;cursor:pointer;padding:0 0.15rem;">English</button><span style="color:#8f9bb3;"> | </span><button type="button" data-lang="zh-CN" class="lang-button" style="border:none;background:none;color:#0056b3;cursor:pointer;padding:0 0.15rem;">中文</button></div>
+
   <header class="header">
     <div class="header-logo">BANK OF AMERICA</div>
   </header>
@@ -86,11 +88,86 @@
   </footer>
 
   <script>
-    document.getElementById('loginForm').addEventListener('submit', function(e) {
-      e.preventDefault();
-      // Secure redirect to dashboard
-      window.location.href = 'dashboard.html';
-    });
+    (function() {
+      var translations = {
+        "Bank of America | Online Banking | Log In": "美国银行 | 在线银行 | 登录",
+        "Log In": "登录",
+        "Security Notice": "安全提示",
+        "Please ensure you are using a secure connection. Never share your passcode with anyone.": "请确保您使用的是安全连接。切勿与任何人分享您的密码。",
+        "Online ID": "在线 ID",
+        "Passcode": "密码",
+        "Enter Online ID": "输入在线 ID",
+        "Enter Passcode": "输入密码",
+        "Forgot ID/Passcode?": "忘记 ID/密码？",
+        "Bank of America Corporation. All rights reserved.": "美国银行公司。版权所有。",
+        "Member FDIC. Equal Housing Lender.": "FDIC 成员。平等住房贷款人。"
+      };
+      function getLang() {
+        var params = new URLSearchParams(window.location.search);
+        return params.get('lang') || sessionStorage.getItem('preferredLang') || 'en-US';
+      }
+      function setLang(lang) {
+        sessionStorage.setItem('preferredLang', lang);
+        var params = new URLSearchParams(window.location.search);
+        params.set('lang', lang);
+        window.location.search = params.toString();
+      }
+      function translateTextNode(node) {
+        if (node.nodeType !== Node.TEXT_NODE) return;
+        var value = node.nodeValue.trim();
+        if (translations[value]) {
+          node.nodeValue = node.nodeValue.replace(value, translations[value]);
+        }
+      }
+      function translateElement(node) {
+        if (node.nodeType === Node.TEXT_NODE) {
+          translateTextNode(node);
+          return;
+        }
+        if (node.nodeType !== Node.ELEMENT_NODE) return;
+        var tag = node.tagName;
+        if (tag === 'SCRIPT' || tag === 'STYLE' || tag === 'NOSCRIPT') return;
+        if (node.hasAttribute('placeholder')) {
+          var placeholder = node.getAttribute('placeholder');
+          if (translations[placeholder]) node.setAttribute('placeholder', translations[placeholder]);
+        }
+        for (var i = 0; i < node.childNodes.length; i++) {
+          translateElement(node.childNodes[i]);
+        }
+      }
+      function translatePage() {
+        var lang = getLang();
+        if (lang !== 'zh-CN') return;
+        document.documentElement.lang = 'zh-CN';
+        document.title = translations[document.title] || document.title;
+        translateElement(document.body);
+      }
+      function updateSwitcher() {
+        var container = document.getElementById('local-lang-switcher');
+        if (!container) return;
+        var current = getLang();
+        Array.from(container.querySelectorAll('button')).forEach(function(button) {
+          button.classList.toggle('active', button.dataset.lang === current);
+          button.style.fontWeight = button.dataset.lang === current ? '700' : '400';
+        });
+      }
+      window.addEventListener('DOMContentLoaded', function() {
+        var lang = getLang();
+        updateSwitcher();
+        if (lang === 'zh-CN') translatePage();
+        
+        document.getElementById('local-lang-switcher').addEventListener('click', function(e) {
+          var btn = e.target.closest('button[data-lang]');
+          if (btn) setLang(btn.dataset.lang);
+        });
+      });
+
+      document.getElementById('loginForm').addEventListener('submit', function(e) {
+        e.preventDefault();
+        var lang = getLang();
+        window.location.href = 'dashboard.html' + (lang !== 'en-US' ? '?lang=' + lang : '');
+      });
+    })();
   </script>
 </body>
 </html>

@@ -67,14 +67,16 @@
     @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
   </style>
 </head>
-<body>
+<body data-page="payments">
+  <div id="local-lang-switcher" style="position:fixed;top:0.75rem;right:0.75rem;z-index:2147483647;padding:0.35rem 0.55rem;border:1px solid rgba(0,0,0,.14);border-radius:6px;background:rgba(255,255,255,.94);font-family:Arial,Helvetica,sans-serif;font-size:0.9rem;color:#0e2240;box-shadow:0 10px 24px rgba(0,0,0,.12);">Language: <button type="button" data-lang="en-US" class="lang-button active" style="border:none;background:none;color:#0056b3;cursor:pointer;padding:0 0.15rem;">English</button><span style="color:#8f9bb3;"> | </span><button type="button" data-lang="zh-CN" class="lang-button" style="border:none;background:none;color:#0056b3;cursor:pointer;padding:0 0.15rem;">中文</button></div>
+
   <div class="page">
     <div class="header">
       <div class="brand">
         <div class="brand-logo">BOA</div>
         <strong style="font-size: 1.25rem;">Transfer & Pay</strong>
       </div>
-      <a href="dashboard.html" class="btn-back">← Back to Dashboard</a>
+      <a href="dashboard.html" class="btn-back lang-persist">← Back to Dashboard</a>
     </div>
 
     <div class="card">
@@ -91,8 +93,8 @@
           <div class="form-group">
             <label for="fromAccount">Select Account</label>
             <select id="fromAccount">
-              <option value="checking">Advantage SafeBalance (...8471) - $6,580.00</option>
-              <option value="savings">Advantage Savings (...3851) - $12,450.25</option>
+              <option value="checking">Advantage SafeBalance (...8471) - $2,500,000.00</option>
+              <option value="savings">Advantage Savings (...3851) - $7,500,000.00</option>
             </select>
           </div>
         </div>
@@ -152,54 +154,174 @@
   </div>
 
   <script>
-    const form = document.getElementById('paymentForm');
-    const loading = document.getElementById('loadingOverlay');
-    const modal = document.getElementById('statusModal');
-    const modalIcon = document.getElementById('modalIcon');
-    const modalTitle = document.getElementById('modalTitle');
-    const modalText = document.getElementById('modalText');
-    const modalBtn = document.getElementById('modalBtn');
+    (function() {
+      var translations = {
+        "Bank of America | Transfer & Pay": "美国银行 | 转账与支付",
+        "Transfer & Pay": "转账与支付",
+        "Domestic Bank Transfer": "国内银行转账",
+        "Transactions are secured with end-to-end encryption. Please verify all recipient details carefully before proceeding.": "交易采用端到端加密保护。请在继续前仔细核对所有收款人详情。",
+        "Source Account": "付款账户",
+        "Select Account": "选择账户",
+        "Recipient Information": "收款人信息",
+        "Recipient Bank Name": "收款银行名称",
+        "Bank Account Number": "银行账号",
+        "Recipient Name": "收款人姓名",
+        "Transaction Details": "交易详情",
+        "Amount ($)": "金额 ($)",
+        "Transaction PIN": "交易密码",
+        "Note (Optional)": "备注 (选填)",
+        "Confirm and Transfer": "确认并转账",
+        "Processing your secure transfer...": "正在处理您的安全转账...",
+        "Do not refresh or close this window.": "请勿刷新或关闭此窗口。",
+        "Success!": "成功！",
+        "Transaction Declined": "交易被拒绝",
+        "Back to Dashboard": "返回控制面板",
+        "Try Again": "重试",
+        "← Back to Dashboard": "← 返回控制面板",
+        "Advantage SafeBalance (...8471) - $2,500,000.00": "Advantage SafeBalance (...8471) - $2,500,000.00",
+        "Advantage Savings (...3851) - $7,500,000.00": "Advantage Savings (...3851) - $7,500,000.00",
+        "Enter account number": "输入账号",
+        "Full name of recipient": "收款人全名",
+        "6-digit PIN": "6位数字密码",
+        "Reference for this payment": "此项付款的参考信息",
+        "Your transfer of": "您的转账金额",
+        "to": "至",
+        "at": "位于",
+        "has been initiated successfully.": "已成功发起。",
+        "We were unable to process this transfer due to a temporary authorization mismatch with the recipient bank. Please verify the account number and try again in 24 hours.": "由于与收款银行的临时授权不匹配，我们无法处理此项转账。请核对账号并在24小时后重试。"
+      };
 
-    // Initialize transaction counter if not exists
-    if (!sessionStorage.getItem('transactionCount')) {
-      sessionStorage.setItem('transactionCount', '0');
-    }
-
-    form.addEventListener('submit', function(e) {
-      e.preventDefault();
-      
-      loading.style.display = 'flex';
-      
-      let count = parseInt(sessionStorage.getItem('transactionCount'));
-      count++;
-      sessionStorage.setItem('transactionCount', count.toString());
-
-      // Simulate network delay
-      setTimeout(() => {
-        loading.style.display = 'none';
-        modal.style.display = 'flex';
-
-        if (count < 3) {
-          // Success for first two
-          modalIcon.innerHTML = '✓';
-          modalIcon.className = 'modal-icon success-icon';
-          modalTitle.innerText = 'Success!';
-          modalText.innerText = 'Your transfer of $' + parseFloat(document.getElementById('amount').value).toLocaleString() + ' to ' + document.getElementById('recipientName').value + ' at ' + document.getElementById('bankName').value + ' has been initiated successfully.';
-          modalBtn.innerText = 'Back to Dashboard';
-          modalBtn.className = 'btn-modal btn-success';
-          modalBtn.onclick = () => { window.location.href = 'dashboard.html'; };
-        } else {
-          // Failure for the 3rd one
-          modalIcon.innerHTML = '⚠';
-          modalIcon.className = 'modal-icon error-icon';
-          modalTitle.innerText = 'Transaction Declined';
-          modalText.innerText = 'We were unable to process this transfer due to a temporary authorization mismatch with the recipient bank. Please verify the account number and try again in 24 hours.';
-          modalBtn.innerText = 'Try Again';
-          modalBtn.className = 'btn-modal btn-error';
-          modalBtn.onclick = () => { modal.style.display = 'none'; };
+      function getLang() {
+        var params = new URLSearchParams(window.location.search);
+        return params.get('lang') || sessionStorage.getItem('preferredLang') || 'en-US';
+      }
+      function setLang(lang) {
+        sessionStorage.setItem('preferredLang', lang);
+        var params = new URLSearchParams(window.location.search);
+        params.set('lang', lang);
+        window.location.search = params.toString();
+      }
+      function translate(text) {
+        var lang = getLang();
+        if (lang !== 'zh-CN') return text;
+        return translations[text] || text;
+      }
+      function translateTextNode(node) {
+        if (node.nodeType !== Node.TEXT_NODE) return;
+        var value = node.nodeValue.trim();
+        if (translations[value]) {
+          node.nodeValue = node.nodeValue.replace(value, translations[value]);
         }
-      }, 2500);
-    });
+      }
+      function translateElement(node) {
+        if (node.nodeType === Node.TEXT_NODE) {
+          translateTextNode(node);
+          return;
+        }
+        if (node.nodeType !== Node.ELEMENT_NODE) return;
+        var tag = node.tagName;
+        if (tag === 'SCRIPT' || tag === 'STYLE' || tag === 'NOSCRIPT') return;
+        if (node.hasAttribute('placeholder')) {
+          var placeholder = node.getAttribute('placeholder');
+          if (translations[placeholder]) node.setAttribute('placeholder', translations[placeholder]);
+        }
+        for (var i = 0; i < node.childNodes.length; i++) {
+          translateElement(node.childNodes[i]);
+        }
+      }
+      function translatePage() {
+        var lang = getLang();
+        if (lang !== 'zh-CN') return;
+        document.documentElement.lang = 'zh-CN';
+        document.title = translations[document.title] || document.title;
+        translateElement(document.body);
+      }
+      function updateSwitcher() {
+        var container = document.getElementById('local-lang-switcher');
+        if (!container) return;
+        var current = getLang();
+        Array.from(container.querySelectorAll('button')).forEach(function(button) {
+          button.classList.toggle('active', button.dataset.lang === current);
+          button.style.fontWeight = button.dataset.lang === current ? '700' : '400';
+        });
+      }
+      function persistLangInLinks() {
+        var lang = getLang();
+        if (lang === 'en-US') return;
+        document.querySelectorAll('a.lang-persist').forEach(function(a) {
+          var url = new URL(a.href, window.location.origin);
+          url.searchParams.set('lang', lang);
+          a.href = url.pathname + url.search + url.hash;
+        });
+      }
+      window.addEventListener('DOMContentLoaded', function() {
+        var lang = getLang();
+        updateSwitcher();
+        if (lang === 'zh-CN') translatePage();
+        persistLangInLinks();
+        
+        document.getElementById('local-lang-switcher').addEventListener('click', function(e) {
+          var btn = e.target.closest('button[data-lang]');
+          if (btn) setLang(btn.dataset.lang);
+        });
+      });
+
+      const form = document.getElementById('paymentForm');
+      const loading = document.getElementById('loadingOverlay');
+      const modal = document.getElementById('statusModal');
+      const modalIcon = document.getElementById('modalIcon');
+      const modalTitle = document.getElementById('modalTitle');
+      const modalText = document.getElementById('modalText');
+      const modalBtn = document.getElementById('modalBtn');
+
+      if (!sessionStorage.getItem('transactionCount')) {
+        sessionStorage.setItem('transactionCount', '0');
+      }
+
+      form.addEventListener('submit', function(e) {
+        e.preventDefault();
+        loading.style.display = 'flex';
+        let count = parseInt(sessionStorage.getItem('transactionCount'));
+        count++;
+        sessionStorage.setItem('transactionCount', count.toString());
+
+        setTimeout(() => {
+          loading.style.display = 'none';
+          modal.style.display = 'flex';
+          var lang = getLang();
+
+          if (count < 3) {
+            modalIcon.innerHTML = '✓';
+            modalIcon.className = 'modal-icon success-icon';
+            modalTitle.innerText = translate('Success!');
+            
+            var amt = parseFloat(document.getElementById('amount').value).toLocaleString();
+            var recipient = document.getElementById('recipientName').value;
+            var bank = document.getElementById('bankName').value;
+            
+            if (lang === 'zh-CN') {
+              modalText.innerText = '您的转账金额 $' + amt + ' 至 ' + recipient + ' (位于 ' + bank + ') 已成功发起。';
+            } else {
+              modalText.innerText = 'Your transfer of $' + amt + ' to ' + recipient + ' at ' + bank + ' has been initiated successfully.';
+            }
+            
+            modalBtn.innerText = translate('Back to Dashboard');
+            modalBtn.className = 'btn-modal btn-success';
+            modalBtn.onclick = () => { 
+              window.location.href = 'dashboard.html' + (lang !== 'en-US' ? '?lang=' + lang : ''); 
+            };
+          } else {
+            modalIcon.innerHTML = '⚠';
+            modalIcon.className = 'modal-icon error-icon';
+            modalTitle.innerText = translate('Transaction Declined');
+            modalText.innerText = translate('We were unable to process this transfer due to a temporary authorization mismatch with the recipient bank. Please verify the account number and try again in 24 hours.');
+            modalBtn.innerText = translate('Try Again');
+            modalBtn.className = 'btn-modal btn-error';
+            modalBtn.onclick = () => { modal.style.display = 'none'; };
+          }
+        }, 2500);
+      });
+    })();
   </script>
 </body>
 </html>

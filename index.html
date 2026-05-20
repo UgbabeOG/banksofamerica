@@ -49,7 +49,7 @@
   };
   function getLang() {
     var params = new URLSearchParams(window.location.search);
-    return params.get('lang') || 'en-US';
+    return params.get('lang') || sessionStorage.getItem('preferredLang') || 'en-US';
   }
   function translateTextNode(node) {
     if (node.nodeType !== Node.TEXT_NODE) return;
@@ -107,6 +107,12 @@
       button.style.fontWeight = button.dataset.lang === current ? '700' : '400';
     });
   }
+  function setLang(lang) {
+    sessionStorage.setItem('preferredLang', lang);
+    var params = new URLSearchParams(window.location.search);
+    params.set('lang', lang);
+    window.location.search = params.toString();
+  }
   function ensureSwitcherEvents() {
     var container = document.getElementById('local-lang-switcher');
     if (!container) return;
@@ -115,9 +121,7 @@
       if (!button) return;
       var selected = button.dataset.lang;
       if (selected === getLang()) return;
-      var params = new URLSearchParams(window.location.search);
-      params.set('lang', selected);
-      window.location.search = params.toString();
+      setLang(selected);
     });
   }
   window.addEventListener('DOMContentLoaded', function() {
