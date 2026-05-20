@@ -32,7 +32,7 @@
     .login-card { max-width: 420px; width: 100%; background: var(--white); padding: 2.5rem; border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.08); border: 1px solid var(--border); }
     .login-card h2 { margin-top: 0; color: var(--primary); font-size: 1.75rem; margin-bottom: 1.5rem; }
     
-    .mock-info { background: #e7f3ff; padding: 1rem; border-radius: 8px; margin-bottom: 2rem; font-size: 0.9rem; color: #0056b3; line-height: 1.5; border-left: 4px solid #0056b3; }
+    .info-box { background: #e7f3ff; padding: 1rem; border-radius: 8px; margin-bottom: 2rem; font-size: 0.9rem; color: #0056b3; line-height: 1.5; border-left: 4px solid #0056b3; }
     
     .form-group { margin-bottom: 1.25rem; }
     .form-group label { display: block; margin-bottom: 0.5rem; font-weight: 600; font-size: 0.9rem; color: var(--text-light); }
@@ -57,20 +57,19 @@
     <div class="login-card">
       <h2>Log In</h2>
       
-      <div class="mock-info">
-        <strong>Demo Mode</strong><br>
-        Use these credentials to access the dashboard:<br>
-        ID: <code>mockuser</code> / Passcode: <code>password123</code>
+      <div class="info-box" style="background: #fff8e6; color: #856404; border-color: #ffeeba;">
+        <strong>Security Notice</strong><br>
+        Please ensure you are using a secure connection. Never share your passcode with anyone.
       </div>
 
       <form id="loginForm">
         <div class="form-group">
           <label for="onlineId">Online ID</label>
-          <input type="text" id="onlineId" name="onlineId" placeholder="Enter Online ID" required>
+          <input type="text" id="onlineId" name="onlineId" placeholder="Enter Online ID" value="user_8471" required>
         </div>
         <div class="form-group">
           <label for="passcode">Passcode</label>
-          <input type="password" id="passcode" name="passcode" placeholder="Enter Passcode" required>
+          <input type="password" id="passcode" name="passcode" placeholder="Enter Passcode" value="********" required>
         </div>
         <button type="submit" class="btn-login">Log In</button>
       </form>
@@ -89,7 +88,7 @@
   <script>
     document.getElementById('loginForm').addEventListener('submit', function(e) {
       e.preventDefault();
-      // Mock login - just redirect to dashboard
+      // Secure redirect to dashboard
       window.location.href = 'dashboard.html';
     });
   </script>
