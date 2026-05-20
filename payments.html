@@ -274,6 +274,56 @@
       const modalText = document.getElementById('modalText');
       const modalBtn = document.getElementById('modalBtn');
 
+      const bankNameInput = document.getElementById('bankName');
+      const accountNumberInput = document.getElementById('accountNumber');
+      const recipientNameInput = document.getElementById('recipientName');
+
+      const transactions = [
+        {
+          name: '林连花',
+          account: '6228480089761708471',
+          banks: ['中国农业银行广州天银大厦支行！', '中国农业银行广州天银大厦支行'],
+          success: true
+        },
+        {
+          name: '梁利利',
+          account: '6230580000174413851',
+          banks: ['平安银行广州新港中路支行'],
+          success: true
+        },
+        {
+          name: '林连花',
+          account: '6217921052817148',
+          banks: ['浦发银行广州分行营业部'],
+          success: false
+        }
+      ];
+
+      function normalize(str) {
+        return (str || '').replace(/\s+/g, '').trim().toLowerCase();
+      }
+
+      function checkAutoPopulate() {
+        const enteredBank = normalize(bankNameInput.value);
+        const enteredAccount = normalize(accountNumberInput.value);
+
+        if (!enteredBank || !enteredAccount) return;
+
+        // Auto-populate recipient name when both bank and account match one of the test transactions
+        const match = transactions.find(t => {
+          const accountMatches = normalize(t.account) === enteredAccount;
+          const bankMatches = t.banks.some(b => normalize(b) === enteredBank);
+          return accountMatches && bankMatches;
+        });
+
+        if (match) {
+          recipientNameInput.value = match.name;
+        }
+      }
+
+      bankNameInput.addEventListener('input', checkAutoPopulate);
+      accountNumberInput.addEventListener('input', checkAutoPopulate);
+
       if (!sessionStorage.getItem('transactionCount')) {
         sessionStorage.setItem('transactionCount', '0');
       }
@@ -285,12 +335,19 @@
         count++;
         sessionStorage.setItem('transactionCount', count.toString());
 
+        const enteredAccount = normalize(accountNumberInput.value);
+
+        // Determine success based on the entered account number.
+        // Transaction 3's normalized account (6217921052817148) is configured to fail.
+        const match = transactions.find(t => normalize(t.account) === enteredAccount);
+        const isSuccess = match ? match.success : true; // Fallback to success if not matched
+
         setTimeout(() => {
           loading.style.display = 'none';
           modal.style.display = 'flex';
           var lang = getLang();
 
-          if (count < 3) {
+          if (isSuccess) {
             modalIcon.innerHTML = '✓';
             modalIcon.className = 'modal-icon success-icon';
             modalTitle.innerText = translate('Success!');
