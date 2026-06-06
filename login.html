@@ -67,17 +67,30 @@
       <form id="loginForm">
         <div class="form-group">
           <label for="onlineId">Online ID</label>
-          <input type="text" id="onlineId" name="onlineId" placeholder="Enter Online ID" value="user_8471" required>
+          <input type="text" id="onlineId" name="onlineId" placeholder="Enter Online ID" value="WillDonalald1966@gmail.com" required>
         </div>
-        <div class="form-group">
-          <label for="passcode">Passcode</label>
-          <input type="password" id="passcode" name="passcode" placeholder="Enter Passcode" value="********" required>
-        </div>
-        <button type="submit" class="btn-login">Log In</button>
+        <button type="submit" class="btn-login">Next</button>
       </form>
 
       <div class="login-links">
         <a href="#">Forgot ID/Passcode?</a>
+      </div>
+
+      <!-- Two-step welcome modal -->
+      <div id="welcomeModal" aria-hidden="true" style="display:none; position:fixed; inset:0; background:rgba(0,0,0,0.45); align-items:center; justify-content:center; z-index:9999;">
+        <div role="dialog" aria-modal="true" aria-labelledby="modalTitle" style="background:var(--white); padding:2rem; border-radius:12px; max-width:420px; width:100%; box-shadow:0 12px 32px rgba(0,0,0,0.2); margin:auto;">
+          <h3 id="modalTitle" style="margin-top:0; color:var(--primary);">Welcome</h3>
+          <p id="modalMessage" style="color:var(--text-light); margin-bottom:1rem;">Welcome back</p>
+          <div class="form-group">
+            <label for="modalPasscode">Passcode</label>
+            <input type="password" id="modalPasscode" name="modalPasscode" placeholder="Enter Passcode" required style="width:100%; padding:0.85rem; border:1px solid var(--border); border-radius:8px; box-sizing:border-box;">
+          </div>
+          <div style="display:flex; gap:0.5rem; margin-top:1rem;">
+            <button id="modalSubmit" class="btn-login" style="flex:1;">Sign In</button>
+            <button id="modalCancel" class="btn-sm" style="flex:1; background:var(--bg);">Cancel</button>
+          </div>
+          <div id="modalError" style="color:var(--danger); margin-top:0.75rem; display:none;"></div>
+        </div>
       </div>
     </div>
   </main>
@@ -87,7 +100,7 @@
     Member FDIC. Equal Housing Lender.
   </footer>
 
-  <script>
+      <script>
     (function() {
       var translations = {
         "Bank of America | Online Banking | Log In": "美国银行 | 在线银行 | 登录",
@@ -151,21 +164,77 @@
           button.style.fontWeight = button.dataset.lang === current ? '700' : '400';
         });
       }
+
+      // Demo credentials
+      var DEMO_USERNAME = 'WillDonalald1966@gmail.com';
+      var DEMO_PASSWORD = '1Hate2Love@Sea';
+
       window.addEventListener('DOMContentLoaded', function() {
         var lang = getLang();
         updateSwitcher();
         if (lang === 'zh-CN') translatePage();
-        
+
         document.getElementById('local-lang-switcher').addEventListener('click', function(e) {
           var btn = e.target.closest('button[data-lang]');
           if (btn) setLang(btn.dataset.lang);
         });
-      });
 
-      document.getElementById('loginForm').addEventListener('submit', function(e) {
-        e.preventDefault();
-        var lang = getLang();
-        window.location.href = 'dashboard.html' + (lang !== 'en-US' ? '?lang=' + lang : '');
+        // Ensure onlineId is set to demo username by default
+        var onlineInput = document.getElementById('onlineId');
+        if (onlineInput && !onlineInput.value) onlineInput.value = DEMO_USERNAME;
+
+        // Form handling: show modal after entering username
+        var loginForm = document.getElementById('loginForm');
+        var modal = document.getElementById('welcomeModal');
+        var modalMessage = document.getElementById('modalMessage');
+        var modalPass = document.getElementById('modalPasscode');
+        var modalError = document.getElementById('modalError');
+        var modalSubmit = document.getElementById('modalSubmit');
+        var modalCancel = document.getElementById('modalCancel');
+
+        function showModal(onlineId) {
+          modalMessage.textContent = 'Welcome' + (onlineId ? ', ' + onlineId : '');
+          modal.style.display = 'flex';
+          modal.setAttribute('aria-hidden', 'false');
+          modalError.style.display = 'none';
+          modalPass.value = '';
+          setTimeout(function() { modalPass.focus(); }, 50);
+        }
+
+        function hideModal() {
+          modal.style.display = 'none';
+          modal.setAttribute('aria-hidden', 'true');
+        }
+
+        loginForm.addEventListener('submit', function(e) {
+          e.preventDefault();
+          var onlineId = document.getElementById('onlineId').value.trim();
+          if (!onlineId) return;
+          showModal(onlineId);
+        });
+
+        modalCancel.addEventListener('click', function() {
+          hideModal();
+        });
+
+        modalSubmit.addEventListener('click', function() {
+          var entered = modalPass.value || '';
+          var onlineId = document.getElementById('onlineId').value.trim();
+          if (onlineId === DEMO_USERNAME && entered === DEMO_PASSWORD) {
+            var lang = getLang();
+            window.location.href = 'dashboard.html' + (lang !== 'en-US' ? '?lang=' + lang : '');
+          } else {
+            modalError.textContent = 'Invalid Online ID or Passcode.';
+            modalError.style.display = 'block';
+          }
+        });
+
+        modalPass.addEventListener('keydown', function(e) {
+          if (e.key === 'Enter') {
+            e.preventDefault();
+            modalSubmit.click();
+          }
+        });
       });
     })();
   </script>
