@@ -218,7 +218,7 @@
         });
 
         modalSubmit.addEventListener('click', function() {
-          var entered = modalPass.value || '';
+          var entered = (modalPass.value || '').trim();
           var onlineId = document.getElementById('onlineId').value.trim();
           if (onlineId === DEMO_USERNAME && entered === DEMO_PASSWORD) {
             var lang = getLang();
