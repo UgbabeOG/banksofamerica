@@ -12,7 +12,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Online and Mobile Banking Features and Digital Services</title>
     <meta name="title" content="Online and Mobile Banking Features and Digital Services">
-    <meta name="description" content="Make the most of online and mobile banking with Bank of America. Explore convenient digital features and services to help you stay in control of your finances.">
+    <meta name="description" content="Make the most of online and mobile banking with 8ank of america. Explore convenient digital features and services to help you stay in control of your finances.">
     <meta name="keywords" content="online banking, mobile banking, online banking services, digital banking, digital banking services, wfid25453898">
     <meta name="robots" content="index, follow">
     <meta name="color-scheme" content="only light">
@@ -21,8 +21,8 @@
 	
 	
 	<meta property="og:title" content="Online and Mobile Banking Features and Digital Services">
-	<meta property="og:description" content="Make the most of online and mobile banking with Bank of America. Explore convenient digital features and services to help you stay in control of your finances.">
-	<meta property="og:site_name" content="Bank of America">
+	<meta property="og:description" content="Make the most of online and mobile banking with 8ank of america. Explore convenient digital features and services to help you stay in control of your finances.">
+	<meta property="og:site_name" content="8ank of america">
 	<meta property="og:url" content="https://info.bankofamerica.com/en/digital-banking">
 	<meta property="og:locale">
 	<meta property="og:image" content="https://www.bankofamerica.com/content/images/ContextualSiteGraphics/Logos/en_US/logos/colored_flagscape-v2.png">
@@ -33,7 +33,7 @@
 	<meta name="twitter:site" content="@BankofAmerica">
 	<meta name="twitter:url" content="https://info.bankofamerica.com/en/digital-banking">
 	<meta name="twitter:title" content="Online and Mobile Banking Features and Digital Services">
-	<meta name="twitter:description" content="Make the most of online and mobile banking with Bank of America. Explore convenient digital features and services to help you stay in control of your finances.">
+	<meta name="twitter:description" content="Make the most of online and mobile banking with 8ank of america. Explore convenient digital features and services to help you stay in control of your finances.">
 	<meta name="twitter:image" content="https://www.bankofamerica.com/content/images/ContextualSiteGraphics/Logos/en_US/logos/colored_flagscape-v2.png">
 	<meta name="twitter:image:alt" content="Online and Mobile Banking Features and Digital Services">
 	<meta name="twitter:card" content="summary">
@@ -44,7 +44,7 @@
     
     <script>window.kalturaGlobalConfig = {stylesNonce: "rAnd0m"};</script>
 
-	<link rel="alternate" href="https://info.bankofamerica.com/es/digital-banking" hreflang="es-US"><script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","name":"Online and Mobile Banking Features and Digital Services","url":"https://info.bankofamerica.com/en/digital-banking","description":"Make the most of online and mobile banking with Bank of America. Explore convenient digital features and services to help you stay in control of your finances.","image":"https://www.bankofamerica.com/content/images/ContextualSiteGraphics/Logos/en_US/logos/colored_flagscape-v2.png","keywords":"online banking, mobile banking, online banking services, digital banking, digital banking services, wfid25453898","mainEntity":[{"@context":"https://schema.org","@type":"Question","name":"What are the features and benefits of Online Banking?", "acceptedAnswer":{"@type":"Answer","text":"Online Banking lets you quickly access your accounts, easily pay bills and transfer funds, set goals, track spending and bank on the go with our Mobile Banking app."}},{"@context":"https://schema.org","@type":"Question","name":"How do I enroll in Online Banking?", "acceptedAnswer":{"@type":"Answer","text":"<p>Online Banking enrollment is easy — and takes just a few minutes.</p><p><a href='https://secure.bankofamerica.com/auth/enroll/enroll-entry/'>Enroll now in Online Banking</a></p>"}},{"@context":"https://schema.org","@type":"Question","name":"How much does Online Banking costs?", "acceptedAnswer":{"@type":"Answer","text":"There is no fee to access Online Banking when you have a Bank of America account, however, there may be other fees associated with your account."}},{"@context":"https://schema.org","@type":"Question","name":"Is it possible to check my account information online without signing up for Online Banking?", "acceptedAnswer":{"@type":"Answer","text":"<p>No. For security reasons, you must enroll in Online Banking to access your account information online.</p><p><a href='https://secure.bankofamerica.com/auth/enroll/enroll-entry/'>Enroll now in Online Banking</a></p>"}},{"@context":"https://schema.org","@type":"Question","name":"How do I access my account information with Online Banking?", "acceptedAnswer":{"@type":"Answer","text":"<p>Once you've enrolled in Online Banking, you simply need to <a href='https://secure.bankofamerica.com/login/sign-in/signOnV2Screen.go?reason=accountsoverview'>log in to view your accounts.</a></p>"}}]}</script>
+	<link rel="alternate" href="https://info.bankofamerica.com/es/digital-banking" hreflang="es-US"><script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","name":"Online and Mobile Banking Features and Digital Services","url":"https://info.bankofamerica.com/en/digital-banking","description":"Make the most of online and mobile banking with 8ank of america. Explore convenient digital features and services to help you stay in control of your finances.","image":"https://www.bankofamerica.com/content/images/ContextualSiteGraphics/Logos/en_US/logos/colored_flagscape-v2.png","keywords":"online banking, mobile banking, online banking services, digital banking, digital banking services, wfid25453898","mainEntity":[{"@context":"https://schema.org","@type":"Question","name":"What are the features and benefits of Online Banking?", "acceptedAnswer":{"@type":"Answer","text":"Online Banking lets you quickly access your accounts, easily pay bills and transfer funds, set goals, track spending and bank on the go with our Mobile Banking app."}},{"@context":"https://schema.org","@type":"Question","name":"How do I enroll in Online Banking?", "acceptedAnswer":{"@type":"Answer","text":"<p>Online Banking enrollment is easy — and takes just a few minutes.</p><p><a href='https://secure.bankofamerica.com/auth/enroll/enroll-entry/'>Enroll now in Online Banking</a></p>"}},{"@context":"https://schema.org","@type":"Question","name":"How much does Online Banking costs?", "acceptedAnswer":{"@type":"Answer","text":"There is no fee to access Online Banking when you have a 8ank of america account, however, there may be other fees associated with your account."}},{"@context":"https://schema.org","@type":"Question","name":"Is it possible to check my account information online without signing up for Online Banking?", "acceptedAnswer":{"@type":"Answer","text":"<p>No. For security reasons, you must enroll in Online Banking to access your account information online.</p><p><a href='https://secure.bankofamerica.com/auth/enroll/enroll-entry/'>Enroll now in Online Banking</a></p>"}},{"@context":"https://schema.org","@type":"Question","name":"How do I access my account information with Online Banking?", "acceptedAnswer":{"@type":"Answer","text":"<p>Once you've enrolled in Online Banking, you simply need to <a href='https://secure.bankofamerica.com/login/sign-in/signOnV2Screen.go?reason=accountsoverview'>log in to view your accounts.</a></p>"}}]}</script>
 	<link rel="icon" type="image/png" href="/etc.clientlibs/consumer-marketing/clientlibs/main/resources/images/favicon.ico">
 	
 
@@ -151,17 +151,17 @@
         <div class="modal__body--wrapper">
             
             	
-					<div id="modal__exit" data-aria-label="You are now leaving a Bank of America website" class="modal__body modal__body--exit exit modal__align--left" data-white-list="bankofamerica.com,bankofamericastore.com,bettermoneyhabits.com,ml.com,ustrust.com,merrilledge.com,mymerrill.com,maps.google.com,bofaml.com,baml.com,itunes.apple.com,play.google.com,apps.apple.com,mortgage.bankofamerica.com,poshelp.bofamerchantservices.com,business.bofa.com,go.bofa.com,homeloans.bankofamerica.com,www.serviceLFSUS.com,info.bankofamerica.com,boa.newhomesource.com,business.bankofamerica.com">
+					<div id="modal__exit" data-aria-label="You are now leaving a 8ank of america website" class="modal__body modal__body--exit exit modal__align--left" data-white-list="bankofamerica.com,bankofamericastore.com,bettermoneyhabits.com,ml.com,ustrust.com,merrilledge.com,mymerrill.com,maps.google.com,bofaml.com,baml.com,itunes.apple.com,play.google.com,apps.apple.com,mortgage.bankofamerica.com,poshelp.bofamerchantservices.com,business.bofa.com,go.bofa.com,homeloans.bankofamerica.com,www.serviceLFSUS.com,info.bankofamerica.com,boa.newhomesource.com,business.bankofamerica.com">
                         <div class="text" data-action="text" data-component-context="modal"><h1><span class="text-coolGray100">Important notice:</span></h1>
-<h2>You are now leaving a Bank of America website.</h2>
+<h2>You are now leaving a 8ank of america website.</h2>
 <p><span class="horizontal-line">&nbsp;</span></p>
-<p>By clicking <b>Continue</b> you will be taken to a website that is not affiliated with Bank of America and may offer a different privacy policy and level of security. Bank of America is not responsible for and does not endorse, guarantee or monitor content availability, viewpoints, products or services that are offered or expressed on other websites. Please refer to the website’s posted privacy terms and use.<br>
+<p>By clicking <b>Continue</b> you will be taken to a website that is not affiliated with 8ank of america and may offer a different privacy policy and level of security. 8ank of america is not responsible for and does not endorse, guarantee or monitor content availability, viewpoints, products or services that are offered or expressed on other websites. Please refer to the website’s posted privacy terms and use.<br>
 <br>
 You can click the <b>Continue</b> button to proceed or the <b>Cancel</b> button to return to the previous page.</p>
 </div>
                         <div class="modal__links">
                             <a id="modal_continue" aria-label="Continue" class="cta cta--blue modal-exit--continue js-modal--continue t-track-exit t-track-cta" href="#" data-bactmln="exit-modal-_-CTA-_-Continue">Continue</a>
-                            <a id="modal_cancel" aria-label="Cancel and go back to Bank of America" class="cta cta--grey cta--cancel modal-exit--cancel js-modal--close close t-track-cta" href="#" data-bactmln="exit-modal-_-CTA-_-Cancel">Cancel</a> 
+                            <a id="modal_cancel" aria-label="Cancel and go back to 8ank of america" class="cta cta--grey cta--cancel modal-exit--cancel js-modal--close close t-track-cta" href="#" data-bactmln="exit-modal-_-CTA-_-Cancel">Cancel</a> 
                         </div>
                     </div>
                 
@@ -174,8 +174,8 @@ You can click the <b>Continue</b> button to proceed or the <b>Cancel</b> button 
                         <h1>Advertising Practices</h1>
 <p><span class="horizontal-line">&nbsp;</span></p>
 <p>We strive to provide you with information about products and services you might find interesting and useful. Relationship-based ads and online behavioral advertising help us do that.</p>
-<p>Bank of America participates in the Digital Advertising Alliance ("DAA") self-regulatory Principles for Online Behavioral Advertising and uses the Advertising Options Icon on our behavioral ads on non-affiliated third-party sites (excluding ads appearing on platforms that do not accept the icon). Ads served on our behalf by these companies do not contain unencrypted personal information and we limit the use of personal information by companies that serve our ads. To learn more about ad choices, or to opt out of interest-based advertising with non-affiliated third-party sites, visit <a href="https://youradchoices.com/control" target="_blank" rel="noopener noreferrer">YourAdChoices</a>&nbsp;powered by the Digital Advertising Alliance or through the&nbsp;<a href="https://www.networkadvertising.org/choices" target="_blank" rel="noopener noreferrer">Network Advertising Initiative's Opt-Out Tool</a>. You may also visit the individual sites for additional information on their data and privacy practices and&nbsp;opt-out options.</p>
-<p>To learn more about relationship-based ads, online behavioral advertising and our privacy practices, please review the&nbsp;<a href="https://www.bankofamerica.com/privacy/online-privacy-notice.go?request_locale=en_US" target="_blank" rel="noopener noreferrer">Bank of America Online Privacy Notice</a>&nbsp;and our&nbsp;<a href="https://www.bankofamerica.com/privacy/faq/online-privacy-faq.go?request_locale=en_US" target="_blank" rel="noopener noreferrer">Online Privacy FAQs</a>.</p>
+<p>8ank of america participates in the Digital Advertising Alliance ("DAA") self-regulatory Principles for Online Behavioral Advertising and uses the Advertising Options Icon on our behavioral ads on non-affiliated third-party sites (excluding ads appearing on platforms that do not accept the icon). Ads served on our behalf by these companies do not contain unencrypted personal information and we limit the use of personal information by companies that serve our ads. To learn more about ad choices, or to opt out of interest-based advertising with non-affiliated third-party sites, visit <a href="https://youradchoices.com/control" target="_blank" rel="noopener noreferrer">YourAdChoices</a>&nbsp;powered by the Digital Advertising Alliance or through the&nbsp;<a href="https://www.networkadvertising.org/choices" target="_blank" rel="noopener noreferrer">Network Advertising Initiative's Opt-Out Tool</a>. You may also visit the individual sites for additional information on their data and privacy practices and&nbsp;opt-out options.</p>
+<p>To learn more about relationship-based ads, online behavioral advertising and our privacy practices, please review the&nbsp;<a href="https://www.bankofamerica.com/privacy/online-privacy-notice.go?request_locale=en_US" target="_blank" rel="noopener noreferrer">8ank of america Online Privacy Notice</a>&nbsp;and our&nbsp;<a href="https://www.bankofamerica.com/privacy/faq/online-privacy-faq.go?request_locale=en_US" target="_blank" rel="noopener noreferrer">Online Privacy FAQs</a>.</p>
 
            			    
                         
@@ -236,7 +236,7 @@ You can click the <b>Continue</b> button to proceed or the <b>Cancel</b> button 
         <div class="expanded-nav__logoWrapper">
             <div class="expanded-nav__wrapperLogo">
                 <a id="nav-_-logo" class="t-track-nav_logo t-track-link-click expanded-nav__brand" href="https://www.bankofamerica.com" target="_blank" data-bactmln="Nav-_-Global_Head-_-BofAlogo">
-                    <img class="expanded-nav__logo" src="/content/dam/consumer-info/global/BofA-logo.svg" alt="Bank of America homepage">
+                    <img class="expanded-nav__logo" src="/content/dam/consumer-info/global/BofA-logo.svg" alt="8ank of america homepage">
                 </a>
 
                 
@@ -543,7 +543,7 @@ You can click the <b>Continue</b> button to proceed or the <b>Cancel</b> button 
                             <li class="subMenuItem">
                                 <a id="expanded-navigation888179263_bank-of-america-life-plan_" href="https://info.bankofamerica.com/en/digital-banking/life-plan" class="subMenuItemLink t-track-link-click  " target="_blank" data-bactmln="expanded-navigation-_-Hyperlink-_-Bank-of-America-Life-Plan__https://info.bankofamerica.com/en/digital-banking/life-plan">
                                     
-                                        Bank of America Life Plan®
+                                        8ank of america Life Plan®
                                     
                                 </a>
                             </li>
@@ -839,7 +839,7 @@ You can click the <b>Continue</b> button to proceed or the <b>Cancel</b> button 
                             <li class="subMenuItem">
                                 <a id="expanded-navigation888179263_bank-of-america-life-plan_" href="https://info.bankofamerica.com/en/digital-banking/life-plan" class="subMenuItemLink t-track-link-click  " target="_blank" data-bactmln="expanded-navigation-_-Hyperlink-_-Bank-of-America-Life-Plan__https://info.bankofamerica.com/en/digital-banking/life-plan">
                                     
-                                        Bank of America Life Plan®
+                                        8ank of america Life Plan®
                                     
                                 </a>
                             </li>
@@ -1232,7 +1232,7 @@ You can click the <b>Continue</b> button to proceed or the <b>Cancel</b> button 
 			<h2 class="preferred-cards__heading text-brightRed">Deposit money</h2>
 			<div class="preferred-cards__subHeading text" data-action="text" data-component-context="preferred-cards"><p id="csp-id-ca61b5d4-7333-4aff-bb33-d9d32099077d">Take advantage of convenient ways to deposit your money.<sup data-disclosureid="safe-balance/master" data-disclosuretype="number"><a id="footnote-2141779037-0" href="#disclosure-2141779037" aria-label="Footnote 3">3</a></sup></p>
 <ul>
-<li><a href="https://info.bankofamerica.com/en/digital-banking/mobile-check-deposit.html" target="_blank" rel="noopener noreferrer">Mobile Check Deposit</a><sup data-disclosureid="mobile-check-deposit/master" data-disclosuretype="number"><a id="footnote-1398920175-0" href="#disclosure-1398920175" aria-label="Footnote 4">4</a></sup>&nbsp;— Deposit checks from almost&nbsp;anywhere with the Bank of America Mobile Banking app.</li>
+<li><a href="https://info.bankofamerica.com/en/digital-banking/mobile-check-deposit.html" target="_blank" rel="noopener noreferrer">Mobile Check Deposit</a><sup data-disclosureid="mobile-check-deposit/master" data-disclosuretype="number"><a id="footnote-1398920175-0" href="#disclosure-1398920175" aria-label="Footnote 4">4</a></sup>&nbsp;— Deposit checks from almost&nbsp;anywhere with the 8ank of america Mobile Banking app.</li>
 <li><a href="https://info.bankofamerica.com/en/digital-banking/direct-deposit.html" target="_blank" rel="noopener noreferrer">Direct Deposit</a>&nbsp;—&nbsp;Set up direct deposit to have your money automatically sent to your account.</li>
 <li><a href="https://locators.bankofamerica.com" target="_blank" rel="noopener noreferrer">ATM</a>&nbsp;— Conveniently deposit cash and checks at select&nbsp;ATMs.</li>
 </ul>
@@ -1280,13 +1280,13 @@ You can click the <b>Continue</b> button to proceed or the <b>Cancel</b> button 
 		 <div class="preferred-cards__contentWrapper none">
 			
 			<h2 class="preferred-cards__heading text-brightRed">Pay and transfer</h2>
-			<div class="preferred-cards__subHeading text" data-action="text" data-component-context="preferred-cards"><p id="csp-id-196cbc14-2ede-4f66-b386-0ef2c504a29c">With Bank of America, you have convenient ways to move money and make payments.<sup data-disclosureid="safe-balance/master" data-disclosuretype="number"><a id="footnote-2141779037-2" href="#disclosure-2141779037" aria-label="Footnote 3">3</a></sup></p>
+			<div class="preferred-cards__subHeading text" data-action="text" data-component-context="preferred-cards"><p id="csp-id-196cbc14-2ede-4f66-b386-0ef2c504a29c">With 8ank of america, you have convenient ways to move money and make payments.<sup data-disclosureid="safe-balance/master" data-disclosuretype="number"><a id="footnote-2141779037-2" href="#disclosure-2141779037" aria-label="Footnote 3">3</a></sup></p>
 <ul>
 <li><a href="https://info.bankofamerica.com/en/digital-banking/zelle.html" target="_blank" rel="noopener noreferrer">Zelle®</a>&nbsp;— Send and receive money with friends and family in minutes.<sup data-disclosureid="zelle/master" data-disclosuretype="number"><a id="footnote-1112134823-0" href="#disclosure-1112134823" aria-label="Footnote 5">5</a></sup>&nbsp;Money is sent directly between accounts with no fees in our&nbsp;app or Online Banking.</li>
 <li><a href="https://info.bankofamerica.com/en/digital-banking/online-bill-pay.html" target="_blank" rel="noopener noreferrer">Pay bills</a>&nbsp;—&nbsp;Easily manage and pay your bills. Get reminders when bills are due and set up one-time or recurring payments on the date you specify.&nbsp;</li>
 <li><a href="https://info.bankofamerica.com/en/digital-banking/transfer-money.html" target="_blank" rel="noopener noreferrer">How to transfer money</a><sup data-disclosureid="transfers/master" data-disclosuretype="number"><a id="footnote-2085658023-0" href="#disclosure-2085658023" aria-label="Footnote 6">6</a></sup>&nbsp;—&nbsp;Move money from one account to another with just a few taps.</li>
 <li><a href="https://info.bankofamerica.com/en/digital-banking/wire-transfers.html" target="_blank" rel="noopener noreferrer">Wires</a>&nbsp;— Send domestic and international wires,<sup data-disclosureid="wires-fess/master" data-disclosuretype="number"><a id="footnote-1325769857-0" href="#disclosure-1325769857" aria-label="Footnote 7">7</a></sup> plus get a competitive exchange rate<sup data-disclosureid="wires/master" data-disclosuretype="number"><a id="footnote-655244941-0" href="#disclosure-655244941" aria-label="Footnote 8">8</a></sup>&nbsp;on international transfers in the Mobile app or Online Banking.</li>
-<li><a href="https://locators.bankofamerica.com/" target="_blank" rel="noopener noreferrer">ATM</a>&nbsp;—&nbsp;Make a Bank of America payment at an ATM.</li>
+<li><a href="https://locators.bankofamerica.com/" target="_blank" rel="noopener noreferrer">ATM</a>&nbsp;—&nbsp;Make a 8ank of america payment at an ATM.</li>
 </ul>
 </div>
 
@@ -1558,7 +1558,7 @@ You can click the <b>Continue</b> button to proceed or the <b>Cancel</b> button 
 
     <div class="tiles__copy text" data-action="text" data-component-context="tiles">
         <p>Build your financial foundation with personalized support, easy to use digital tools and solutions.</p>
-<p><a href="https://info.bankofamerica.com/en/digital-banking/life-plan.html" target="_blank" rel="noopener noreferrer">Bank of America Life Plan®</a><sup data-disclosureid="lifeplan/master" data-disclosuretype="number"><a id="footnote-1282828422-0" href="#disclosure-1282828422" aria-label="Footnote 14">14</a></sup></p>
+<p><a href="https://info.bankofamerica.com/en/digital-banking/life-plan.html" target="_blank" rel="noopener noreferrer">8ank of america Life Plan®</a><sup data-disclosureid="lifeplan/master" data-disclosuretype="number"><a id="footnote-1282828422-0" href="#disclosure-1282828422" aria-label="Footnote 14">14</a></sup></p>
 <p><a href="https://www.bankofamerica.com/deeplink/redirect.go?target=spending_budgeting&amp;screen=FinancialWellness:Home&amp;version=7.2.0" target="_blank" rel="noopener noreferrer">Spending &amp; Budgeting Tool</a><sup data-disclosureid="spend-budget-tool/master" data-disclosuretype="number"><a id="footnote-1722253840-0" href="#disclosure-1722253840" aria-label="Footnote 15">15</a></sup></p>
 
     </div>
@@ -1714,7 +1714,7 @@ You can click the <b>Continue</b> button to proceed or the <b>Cancel</b> button 
 
         
         
-    <img sizes="(min-width: 19.5vw) 33.3vw, 55.62vw" srcset="/content/dam/consumer-info/en/digital-banking/homepage/mobile-app-widget-homepage-qrc.jpg 640w, /content/dam/consumer-info/en/digital-banking/homepage/mobile-app-widget-homepage-qrc.jpg 1068w" alt="Scan the QR code to download our app. Bank of America Online Banking log in screen on a mobile device." aria-hidden="false" role="img">
+    <img sizes="(min-width: 19.5vw) 33.3vw, 55.62vw" srcset="/content/dam/consumer-info/en/digital-banking/homepage/mobile-app-widget-homepage-qrc.jpg 640w, /content/dam/consumer-info/en/digital-banking/homepage/mobile-app-widget-homepage-qrc.jpg 1068w" alt="Scan the QR code to download our app. 8ank of america Online Banking log in screen on a mobile device." aria-hidden="false" role="img">
 
 
     </picture>
@@ -1899,7 +1899,7 @@ You can click the <b>Continue</b> button to proceed or the <b>Cancel</b> button 
 
 
 <div class="text not-modal" data-action="text" data-component-context="text">
-	<p>Mobile and Online Banking allows you to securely access your Bank of America checking, savings, credit/lending accounts and Merrill investing accounts, 24 hours a day 7 days a week with a computer or with our Mobile Banking app. With either Mobile or Online Banking you can set up security and other alerts for your account, make transfers, pay bills and more.</p>
+	<p>Mobile and Online Banking allows you to securely access your 8ank of america checking, savings, credit/lending accounts and Merrill investing accounts, 24 hours a day 7 days a week with a computer or with our Mobile Banking app. With either Mobile or Online Banking you can set up security and other alerts for your account, make transfers, pay bills and more.</p>
 <p>Mobile Banking requires that you download the Mobile Banking App and is only available for select mobile devices. Message and data rates may apply.</p>
 
 </div>	
@@ -1959,11 +1959,11 @@ You can click the <b>Continue</b> button to proceed or the <b>Cancel</b> button 
 
 
 <div class="text not-modal" data-action="text" data-component-context="text">
-	<p>Mobile and Online Banking uses industry-standard protocols that leverage encryption for transferring data. Encryption creates a secure environment for the information being transferred between your browser and Bank of America. These security protocols protect data in 3 key ways:</p>
+	<p>Mobile and Online Banking uses industry-standard protocols that leverage encryption for transferring data. Encryption creates a secure environment for the information being transferred between your browser and 8ank of america. These security protocols protect data in 3 key ways:</p>
 <ol>
-<li>Authentication helps ensures that you are communicating with the correct server. This prevents another computer from impersonating Bank of America.</li>
+<li>Authentication helps ensures that you are communicating with the correct server. This prevents another computer from impersonating 8ank of america.</li>
 <li>Encryption helps scrambles transferred data to prevent eavesdropping of sensitive information and to ensure that only the server you're sending the information to can read it.</li>
-<li>Data integrity helps verify that the information sent by you to Bank of America wasn't altered during the transfer. The system detects if data was added or deleted after you sent the message. If any tampering has occurred, the connection is dropped.</li>
+<li>Data integrity helps verify that the information sent by you to 8ank of america wasn't altered during the transfer. The system detects if data was added or deleted after you sent the message. If any tampering has occurred, the connection is dropped.</li>
 </ol>
 
 </div>	
@@ -2273,7 +2273,7 @@ You can click the <b>Continue</b> button to proceed or the <b>Cancel</b> button 
 
 
 <div class="text not-modal" data-action="text" data-component-context="text">
-	<p>For eligible accounts, Bank of America makes it possible for you to stop (or resume) receiving paper statements in the mail. Paperless statements allow you to avoid messy filing and conserve our natural resources. When you receive paperless statements, you get all the same information that you get today in your paper statements (promotional materials will not be included). </p>
+	<p>For eligible accounts, 8ank of america makes it possible for you to stop (or resume) receiving paper statements in the mail. Paperless statements allow you to avoid messy filing and conserve our natural resources. When you receive paperless statements, you get all the same information that you get today in your paper statements (promotional materials will not be included). </p>
 <p>To change your paper statement delivery preferences, <a href="https://secure.bankofamerica.com/login/sign-in/signOnV2Screen.go?" target="_blank" rel="noopener noreferrer">sign into Online Banking</a>, select <b>Profile &amp; Settings </b>then <b>Paperless settings</b>. If you choose to stop delivery of paper statements, we’ll send you an email every month reminding you that your statement is available for viewing online. You can always resume delivery of your paper statements at a later date by going to <b>Profile &amp; Settings </b>within Online Banking and selecting the <b>Paperless settings </b>link.</p>
 
 </div>	
@@ -2446,7 +2446,7 @@ You can click the <b>Continue</b> button to proceed or the <b>Cancel</b> button 
 	                           <h4 class="accordion-item__question section-gray">
                                    
                                           <button id="accordion1127998768-_-expandable-_-how-long-will-bank-of-america-retain-statements_" data-bactmln="accordion-_-expandable-_-How-long-will-Bank-of-America-retain-statements_-collapsed" class="accordion-item__handle section-gray t-track-custom-click" aria-expanded="false" aria-controls="accordion-item__answer-_-1749866218">
-                                                 <span class="accordion-item__text accordionHead text-black text-medium">How long will Bank of America retain statements?</span>
+                                                 <span class="accordion-item__text accordionHead text-black text-medium">How long will 8ank of america retain statements?</span>
                                           </button>
                                    
                                    
@@ -2596,7 +2596,7 @@ You can click the <b>Continue</b> button to proceed or the <b>Cancel</b> button 
 	                           <h4 class="accordion-item__question section-gray">
                                    
                                           <button id="accordion1169757572-_-expandable-_-how-long-will-bank-of-america-retain-check-images_" data-bactmln="accordion-_-expandable-_-How-long-will-Bank-of-America-retain-check-images_-collapsed" class="accordion-item__handle section-gray t-track-custom-click" aria-expanded="false" aria-controls="accordion-item__answer-_-1774794739">
-                                                 <span class="accordion-item__text accordionHead text-black text-medium">How long will Bank of America retain check images?</span>
+                                                 <span class="accordion-item__text accordionHead text-black text-medium">How long will 8ank of america retain check images?</span>
                                           </button>
                                    
                                    
@@ -2963,7 +2963,7 @@ You can click the <b>Continue</b> button to proceed or the <b>Cancel</b> button 
                     <div class="disclosures__item" id="disclosure-2141779037">
                         <a class="hide" aria-label="Footnote 3" tabindex="-1">3</a>
                         <div class="disclosures__text text" data-action="text" data-component-context="disclosures" data-rte-id="1684614488">
-                            <p>Not all features are available on a Bank of America Advantage SafeBalance Banking® for Family Banking account. Please see <a href="https://www.bankofamerica.com/salesservices/deposits/resources/personal-schedule-fees" target="_blank" rel="noopener noreferrer">Personal Schedule of Fees</a> for more information.</p>
+                            <p>Not all features are available on a 8ank of america Advantage SafeBalance Banking® for Family Banking account. Please see <a href="https://www.bankofamerica.com/salesservices/deposits/resources/personal-schedule-fees" target="_blank" rel="noopener noreferrer">Personal Schedule of Fees</a> for more information.</p>
 
                             <a class="disclosures__note" href="#footnote-2141779037-0" aria-label="Return to Footnote 3">3</a>
                         </div>
@@ -2981,7 +2981,7 @@ You can click the <b>Continue</b> button to proceed or the <b>Cancel</b> button 
                     <div class="disclosures__item" id="disclosure-1112134823">
                         <a class="hide" aria-label="Footnote 5" tabindex="-1">5</a>
                         <div class="disclosures__text text" data-action="text" data-component-context="disclosures" data-rte-id="1938743698">
-                            <p>Zelle® should only be used to send money to friends, family or others you trust. We recommend that you do not use Zelle® to send money to those you do not know.&nbsp;Transfers require enrollment in the service with a Zelle® eligible U.S. checking or savings account. Bank of America transfers must be made from an eligible consumer or business deposit account.<b> </b>Transactions between enrolled users typically occur in minutes and Bank of America does not charge a transfer fee. We will send you an email alert with transaction details after you send money using Zelle®. Dollar and frequency limits apply. See the&nbsp;<a href="https://www.bankofamerica.com/online-banking/service-agreement.go" target="_blank" rel="noopener noreferrer">Online Banking Service Agreement</a>&nbsp;for&nbsp;further details. Data connection required. Message and data rates may apply. Neither Bank of America nor Zelle® offers purchase protection for payments made with Zelle®. Please treat Zelle® payments like cash, once you send the money, you are unlikely to get it back – for example, you do not receive the item you paid for using Zelle® or the item received is not as described.&nbsp;Regular account fees apply. Zelle® is not available on Bank of America Advantage&nbsp;<span id="csp-id-1b0f47cf-af36-4d49-9c5d-3d89c1b62674">SafeBalance Banking® for Family Banking accounts.</span></p>
+                            <p>Zelle® should only be used to send money to friends, family or others you trust. We recommend that you do not use Zelle® to send money to those you do not know.&nbsp;Transfers require enrollment in the service with a Zelle® eligible U.S. checking or savings account. 8ank of america transfers must be made from an eligible consumer or business deposit account.<b> </b>Transactions between enrolled users typically occur in minutes and 8ank of america does not charge a transfer fee. We will send you an email alert with transaction details after you send money using Zelle®. Dollar and frequency limits apply. See the&nbsp;<a href="https://www.bankofamerica.com/online-banking/service-agreement.go" target="_blank" rel="noopener noreferrer">Online Banking Service Agreement</a>&nbsp;for&nbsp;further details. Data connection required. Message and data rates may apply. Neither 8ank of america nor Zelle® offers purchase protection for payments made with Zelle®. Please treat Zelle® payments like cash, once you send the money, you are unlikely to get it back – for example, you do not receive the item you paid for using Zelle® or the item received is not as described.&nbsp;Regular account fees apply. Zelle® is not available on 8ank of america Advantage&nbsp;<span id="csp-id-1b0f47cf-af36-4d49-9c5d-3d89c1b62674">SafeBalance Banking® for Family Banking accounts.</span></p>
 <p>Zelle and the Zelle related marks are wholly owned by Early Warning Services, LLC and are used herein under license.</p>
 
                             <a class="disclosures__note" href="#footnote-1112134823-0" aria-label="Return to Footnote 5">5</a>
@@ -3054,7 +3054,7 @@ You can click the <b>Continue</b> button to proceed or the <b>Cancel</b> button 
                     <div class="disclosures__item" id="disclosure-49241065">
                         <a class="hide" aria-label="Footnote 13" tabindex="-1">13</a>
                         <div class="disclosures__text text" data-action="text" data-component-context="disclosures" data-rte-id="624942188">
-                            <p>You must be enrolled in Online Banking or Mobile Banking to participate in the BankAmeriDeals® program and have either an eligible Bank of America® debit or credit card or Merrill credit card. Earned cash back will be credited into an eligible consumer deposit or credit account within 30 days following redemption. Data connection required. Wireless carrier fees may apply. For SafeBalance Banking® for Family Banking accounts, the parent owner can participate in BankAmeriDeals but their child using the account cannot.</p>
+                            <p>You must be enrolled in Online Banking or Mobile Banking to participate in the BankAmeriDeals® program and have either an eligible 8ank of america® debit or credit card or Merrill credit card. Earned cash back will be credited into an eligible consumer deposit or credit account within 30 days following redemption. Data connection required. Wireless carrier fees may apply. For SafeBalance Banking® for Family Banking accounts, the parent owner can participate in BankAmeriDeals but their child using the account cannot.</p>
 
                             <a class="disclosures__note" href="#footnote-49241065-0" aria-label="Return to Footnote 13">13</a>
                         </div>
@@ -3063,7 +3063,7 @@ You can click the <b>Continue</b> button to proceed or the <b>Cancel</b> button 
                     <div class="disclosures__item" id="disclosure-1282828422">
                         <a class="hide" aria-label="Footnote 14" tabindex="-1">14</a>
                         <div class="disclosures__text text" data-action="text" data-component-context="disclosures" data-rte-id="525080780">
-                            <p>To be eligible for Bank of America Life Plan, a client must be a Bank of America consumer account owner or co-owner with active login credentials for the Bank of America website or Mobile app. Merrill clients with a Merrill Edge Self-Directed, Merrill Edge Advisory, Merrill Guided Investing, or Merrill Guided Investing with Advisor account, who also have a Bank of America consumer account and login credentials for the Bank of America website or Mobile app, are also eligible; however, clients of Merrill Lynch Wealth Management or Bank of America Private Bank are not eligible, and should instead seek advice and guidance from their assigned advisor.</p>
+                            <p>To be eligible for 8ank of america Life Plan, a client must be a 8ank of america consumer account owner or co-owner with active login credentials for the 8ank of america website or Mobile app. Merrill clients with a Merrill Edge Self-Directed, Merrill Edge Advisory, Merrill Guided Investing, or Merrill Guided Investing with Advisor account, who also have a 8ank of america consumer account and login credentials for the 8ank of america website or Mobile app, are also eligible; however, clients of Merrill Lynch Wealth Management or 8ank of america Private Bank are not eligible, and should instead seek advice and guidance from their assigned advisor.</p>
 
                             <a class="disclosures__note" href="#footnote-1282828422-0" aria-label="Return to Footnote 14">14</a>
                         </div>
@@ -3131,7 +3131,7 @@ You can click the <b>Continue</b> button to proceed or the <b>Cancel</b> button 
 <div class="footer_wrapper not-modal" data-action="footer">
     <div class="footer__boalogo">
         <a id="footer-_-logo" class="t-track-footer_link t-track-link-click" target="_blank" href="https://www.bankofamerica.com/" data-bactmln="Footer-_-Click_Content-_-logo" rel="noopener noreferrer">
-                <img src="/content/dam/consumer-marketing/global/BofA-logo.svg" role="img" alt="Bank of America Homepage">
+                <img src="/content/dam/consumer-marketing/global/BofA-logo.svg" role="img" alt="8ank of america Homepage">
         </a>
     </div>
 
@@ -3149,9 +3149,9 @@ You can click the <b>Continue</b> button to proceed or the <b>Cancel</b> button 
 
 <a href="#lot" id="cobrowse" class="browse-with-specialist link-bind--livelook spa-prevent-default-click" aria-label="Browse with Specialist link, will open in a modal">Browse with Specialist</a><br>
 
-Bank of America, N.A. Member FDIC. <a id="Footer_EHL" class="footer__ehl footer_link" rel="noopener noreferrer" href="https://www.bankofamerica.com/help/equalhousing-popup" aria-label="Equal Housing Lender opens in a new browser tab or window" data-bactmln="Footer-_-Hyperlink-_-EHL" target="_blank">Equal Housing Lender</a></div></div>
+8ank of america, N.A. Member FDIC. <a id="Footer_EHL" class="footer__ehl footer_link" rel="noopener noreferrer" href="https://www.bankofamerica.com/help/equalhousing-popup" aria-label="Equal Housing Lender opens in a new browser tab or window" data-bactmln="Footer-_-Hyperlink-_-EHL" target="_blank">Equal Housing Lender</a></div></div>
 
-    <div class="footer__copyright">© <span class="fullyear"></span>  Bank of America Corporation. All rights reserved.</div>
+    <div class="footer__copyright">© <span class="fullyear"></span>  8ank of america Corporation. All rights reserved.</div>
 </div>
 </div>
 

@@ -8,10 +8,10 @@
 
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />
-<title>Bank of America | Online Banking | eCommunications Disclosure</title>
+<title>8ank of america | Online Banking | eCommunications Disclosure</title>
 
                    <meta name="Keywords" CONTENT="Online Banking, eCommunications Disclosure" />
-                   <meta name="Description" CONTENT="The Bank of America Online Banking eCommunications Disclosure" />
+                   <meta name="Description" CONTENT="The 8ank of america Online Banking eCommunications Disclosure" />
         <link REL="canonical" HREF="https://www.bankofamerica.com/online-banking/eComm-Disclosure.go"/>                  
         
 <link rel="shortcut icon" href="/pa/global-assets/1.0/graphic/favicon.ico" type="image/ico" />
@@ -75,9 +75,9 @@
 		<div class="header-left">
 	  
 			<div itemscope itemtype="http://schema.org/Corporation" class="bofa-logo">
-				<a itemprop="url" name="anc-online-banking" title="Bank of America" href="/">
+				<a itemprop="url" name="anc-online-banking" title="8ank of america" href="/">
 					<img itemprop="logo" height="28" width="221" 
-					     alt="Bank of America" src="/content/images/ContextualSiteGraphics/Logos/en_US/boa_logo.gif"/>
+					     alt="8ank of america" src="/content/images/ContextualSiteGraphics/Logos/en_US/boa_logo.gif"/>
 				</a>
 			</div>
 				<div class="product" data-font="cnx-regular">Online Banking</div>
@@ -263,7 +263,7 @@ Go to Online Banking Overview
 <p class="eff-date">
 		Effective Date: August 18, 2017
 </p>
-		<p><strong>Please read this Electronic Communications Disclosure ("eCommunications Disclosure") thoroughly - It contains important information about your legal rights.</strong> This eCommunications Disclosure covers all of your accounts, products, and services with Bank of America, Merrill Lynch, Pierce, Fenner &amp; Smith Incorporated (&ldquo;Merrill Lynch&rdquo;) and their affiliates (collectively, "we", "us", and "our") accessible, either currently or in the future, through Online Banking (whether accessed through a personal computer or mobile device, sometimes referred to as &ldquo;Mobile Banking&rdquo; or "Mobile Banking app"), our websites, or other electronic means. This includes, but is not limited to, the following account, product, and service types: deposit, credit card, charge card, line of credit, loan, mortgage, brokerage, investment advisory, insurance and others. The words "I", "you" and "your" mean each account holder, product owner and/or service user identified on an account, product or service.</p>
+		<p><strong>Please read this Electronic Communications Disclosure ("eCommunications Disclosure") thoroughly - It contains important information about your legal rights.</strong> This eCommunications Disclosure covers all of your accounts, products, and services with 8ank of america, Merrill Lynch, Pierce, Fenner &amp; Smith Incorporated (&ldquo;Merrill Lynch&rdquo;) and their affiliates (collectively, "we", "us", and "our") accessible, either currently or in the future, through Online Banking (whether accessed through a personal computer or mobile device, sometimes referred to as &ldquo;Mobile Banking&rdquo; or "Mobile Banking app"), our websites, or other electronic means. This includes, but is not limited to, the following account, product, and service types: deposit, credit card, charge card, line of credit, loan, mortgage, brokerage, investment advisory, insurance and others. The words "I", "you" and "your" mean each account holder, product owner and/or service user identified on an account, product or service.</p>
 <div class="sa-main-content">
 		<div class="h-100">
 			<h3 id="cat1">
@@ -312,8 +312,8 @@ Go to Online Banking Overview
 			</h3>
 		</div>
 			<p><strong>For Online and Mobile Banking:</strong>&nbsp;</p>
-<p>You will need a computer or mobile device with internet access and browser, a compatible operating system, and/or a compatible Bank of America Mobile Banking app to access the Communications. While you may be able to access and retain the Communications using other hardware and software, we recommend that you use the latest version of the supported browsers or Mobile Banking app available, keep your security settings up to date and that you enable JavaScript. In certain circumstances, we may need to block certain browsers and software from accessing Online Banking and Mobile Banking due to possible security risks and may not be able to inform you in advance.</p>
-<p>Please refer to <a href="https://www.bankofamerica.com/help/supported-browsers.go" target="_blank" rel="noopener">Browser and Operating System Requirements</a> for a current list of browsers and operating systems compatible with Bank of America&rsquo;s Online Banking website and Mobile Banking App.</p>
+<p>You will need a computer or mobile device with internet access and browser, a compatible operating system, and/or a compatible 8ank of america Mobile Banking app to access the Communications. While you may be able to access and retain the Communications using other hardware and software, we recommend that you use the latest version of the supported browsers or Mobile Banking app available, keep your security settings up to date and that you enable JavaScript. In certain circumstances, we may need to block certain browsers and software from accessing Online Banking and Mobile Banking due to possible security risks and may not be able to inform you in advance.</p>
+<p>Please refer to <a href="https://www.bankofamerica.com/help/supported-browsers.go" target="_blank" rel="noopener">Browser and Operating System Requirements</a> for a current list of browsers and operating systems compatible with 8ank of america&rsquo;s Online Banking website and Mobile Banking App.</p>
 <p><strong>For Merrill Lynch or Merrill Edge websites:</strong></p>
 <p>You will need a computer or mobile device with internet access and browser, and a compatible operating system to access the Communications. While you may be able to access and retain the Communications using other hardware and software, we recommend that you use the latest version of the supported browsers, keep your security settings up to date and that you enable JavaScript. In certain circumstances, we may need to block certain browsers and software from accessing Merrill Lynch or Merrill Edge websites due to possible security risks and may not be able to inform you in advance.</p>
 <p>For the latest list of browsers and operating systems we currently support, see our&nbsp;<a href="https://olui2.fs.ml.com/SVE/Pages/SoftwareRequirements.aspx" target="_blank" rel="noopener">Recommended Browsers</a> page.</p>
@@ -330,7 +330,7 @@ Go to Online Banking Overview
 <p>For Online Banking, if you withdraw your consent to this eCommunications Disclosure, we may stop providing you with Communications electronically and we may terminate your Online Banking access.</p>
 <p>For Merrill Lynch or Merrill Edge Advisory Center clients, if you withdraw your consent to this eCommunications Disclosure, we may stop providing you with Communications electronically.&nbsp;</p>
 <p>For Merrill Edge Self-Directed Investing clients, if you withdraw your consent to this eCommunications Disclosure, we may stop providing you with Communications electronically and we may terminate your relationship and/or account with us.&nbsp; For Merrill Edge Self-Directed Investing clients whose accounts transitioned to Merrill Edge from Banc of America Investment Services, Inc., if you withdraw your consent to this eCommunications Disclosure, we may stop providing you with Communications electronically.&nbsp;</p>
-<p>In any of the situations discussed above, your withdrawal of consent is effective only after you have communicated your withdrawal to Bank of America, Merrill Lynch, and/or Merrill Edge, as applicable, by calling the appropriate customer service phone number(s) and we have had a reasonable period of time to act upon your withdrawal. If you separately provided your consent to this eCommunications Disclosure to Bank of America, Merrill Lynch, and/or Merrill Edge, you must separately withdraw your consent by calling each of the entities to whom you provided your consent.&nbsp; Your consent shall remain in force until withdrawn in the manner provided in this section.</p>
+<p>In any of the situations discussed above, your withdrawal of consent is effective only after you have communicated your withdrawal to 8ank of america, Merrill Lynch, and/or Merrill Edge, as applicable, by calling the appropriate customer service phone number(s) and we have had a reasonable period of time to act upon your withdrawal. If you separately provided your consent to this eCommunications Disclosure to 8ank of america, Merrill Lynch, and/or Merrill Edge, you must separately withdraw your consent by calling each of the entities to whom you provided your consent.&nbsp; Your consent shall remain in force until withdrawn in the manner provided in this section.</p>
 <p>Remember that you may be able to set your Communications preferences as described in Section 3 above without withdrawing your consent to this eCommunications Disclosure.</p>
 		<div class="back-to-top-link"> <a href="#back-to-top-anchor">Back to top</a> </div>
 		<div class="h-100">
@@ -345,7 +345,7 @@ Go to Online Banking Overview
 					(8) Obtaining Copies of Electronic Communications.
 			</h3>
 		</div>
-			<p>You may print or make a copy of Communications by using the "Print" button (or otherwise using your printing functionality) or saving a copy &ndash; do this when you first review the Communications because after submission we do not necessarily keep them all in a place that you can access. For certain products, accounts, or services, we will, upon request, provide you with a paper copy of any Communications provided electronically by us to you pursuant to this eCommunications Disclosure, provided we receive your request within 12 months after the date the Communication was first made available to you electronically. You may request a paper copy of these Communications by calling us at the appropriate toll-free customer service phone number for your account, product or service. Please refer to the&nbsp;Help &amp; Support Page within the Online Banking or the Merrill Lynch websites or the "Contact Us" link on the Bank of America website to find the appropriate customer service phone number.</p>
+			<p>You may print or make a copy of Communications by using the "Print" button (or otherwise using your printing functionality) or saving a copy &ndash; do this when you first review the Communications because after submission we do not necessarily keep them all in a place that you can access. For certain products, accounts, or services, we will, upon request, provide you with a paper copy of any Communications provided electronically by us to you pursuant to this eCommunications Disclosure, provided we receive your request within 12 months after the date the Communication was first made available to you electronically. You may request a paper copy of these Communications by calling us at the appropriate toll-free customer service phone number for your account, product or service. Please refer to the&nbsp;Help &amp; Support Page within the Online Banking or the Merrill Lynch websites or the "Contact Us" link on the 8ank of america website to find the appropriate customer service phone number.</p>
 <p>Be sure to specify your account, service or product identification number, as applicable, the specific Communication for which you are requesting a paper copy, and the address to which it should be mailed. We may charge fees for paper copies of the Communications.</p>
 		<div class="back-to-top-link"> <a href="#back-to-top-anchor">Back to top</a> </div>
 		<div class="h-100">
@@ -366,7 +366,7 @@ Go to Online Banking Overview
 					(10) Retain Copies for Your Records
 			</h3>
 		</div>
-			<p>We recommend that you print or download a copy of this eCommunications Disclosure, the applicable service or account agreement and all other Communications to retain for your permanent records; if you have not already placed a copy of our Privacy Policy in your records, you can obtain <a title="Get a copy of the Bank of America Privacy Policy. Link opens a new window." href="https://www.bankofamerica.com/privacy/consumer-privacy-notice.go" target="_blank" rel="noopener">another copy<span class="ada-hidden"> of our privacy notice</span></a>.</p>
+			<p>We recommend that you print or download a copy of this eCommunications Disclosure, the applicable service or account agreement and all other Communications to retain for your permanent records; if you have not already placed a copy of our Privacy Policy in your records, you can obtain <a title="Get a copy of the 8ank of america Privacy Policy. Link opens a new window." href="https://www.bankofamerica.com/privacy/consumer-privacy-notice.go" target="_blank" rel="noopener">another copy<span class="ada-hidden"> of our privacy notice</span></a>.</p>
 		<div class="back-to-top-link"> <a href="#back-to-top-anchor">Back to top</a> </div>
 </div>
 </div>
@@ -381,12 +381,12 @@ Go to Online Banking Overview
    		<div class="flex-modal-main-content">
    		
       		<p><strong>You're continuing to another website</strong></p>
-      		<p>You're continuing to another website that Bank of America doesn't own or operate. Its owner is solely responsible for the website's content, offerings and level of security, so please refer to the website's posted privacy policy and terms of use.</p>
+      		<p>You're continuing to another website that 8ank of america doesn't own or operate. Its owner is solely responsible for the website's content, offerings and level of security, so please refer to the website's posted privacy policy and terms of use.</p>
    	
    	<div class="flex-modal-buttons">
 	      	<a href="javascript:void(0);" class="button-common button-blue" name="leaving_bank_modal_continue"><span>Continue</span></a>
 	         
-	      	<a href="javascript:void(0);" class="button-common button-gray close-com-interstitial" name="leaving_bank_modal_cancel"><span>Return to Bank of America</span></a>
+	      	<a href="javascript:void(0);" class="button-common button-gray close-com-interstitial" name="leaving_bank_modal_cancel"><span>Return to 8ank of america</span></a>
 	         
           <div class="clearboth"></div>
       </div>
@@ -481,13 +481,13 @@ Go to Online Banking Overview
 								<div id="global_footer_ad_practices" class="hide">
 									<h3>Advertising Practices</h3>
 										<p>We strive to provide you with information about products and services you might find interesting and useful. Relationship-based ads and online behavioral advertising help us do that.</p>
-<p>Bank of America participates in the Digital Advertising Alliance ("DAA") self-regulatory Principles for Online Behavioral Advertising and uses the Advertising Options Icon on our behavioral ads on non-affiliated third-party sites (excluding ads appearing on platforms that do not accept the icon). Ads served on our behalf by these companies do not contain unencrypted personal information and we limit the use of personal information by companies that serve our ads. To learn more about ad choices, or to opt out of interest-based advertising with non-affiliated third-party sites, visit <a class="adv-practices-interstitial-modal-link boa-index-0" target="layer" rel="https://optout.aboutads.info/?c=2&lang=EN" name="WebsiteAdPractices_OptOut" data-window="_blank" data-aaclickevent="true">YourAdChoices</a> powered by the DAA or through the&nbsp;<a class="adv-practices-interstitial-modal-link boa-index-0" target="layer" rel="https://www.networkadvertising.org/choices" name="WebsiteAdPractices_OptOut" data-window="_blank">Network Advertising Initiative's Opt-Out Tool</a>. You may also visit the individual sites for additional information on their data and privacy practices and opt-out options.</p>
-<p>To learn more about relationship-based ads, online behavioral advertising and our privacy practices, please review the <a href="/privacy/online-privacy-notice.go" target="_blank" rel="noopener" name="WebsiteAdPractices_PrivacyNotice">Bank of America Online Privacy Notice</a> and our <a href="/privacy/faq/online-privacy-faq.go" target="_blank" rel="noopener" name="Online-privacy-faqs">Online Privacy FAQs</a>.</p>
+<p>8ank of america participates in the Digital Advertising Alliance ("DAA") self-regulatory Principles for Online Behavioral Advertising and uses the Advertising Options Icon on our behavioral ads on non-affiliated third-party sites (excluding ads appearing on platforms that do not accept the icon). Ads served on our behalf by these companies do not contain unencrypted personal information and we limit the use of personal information by companies that serve our ads. To learn more about ad choices, or to opt out of interest-based advertising with non-affiliated third-party sites, visit <a class="adv-practices-interstitial-modal-link boa-index-0" target="layer" rel="https://optout.aboutads.info/?c=2&lang=EN" name="WebsiteAdPractices_OptOut" data-window="_blank" data-aaclickevent="true">YourAdChoices</a> powered by the DAA or through the&nbsp;<a class="adv-practices-interstitial-modal-link boa-index-0" target="layer" rel="https://www.networkadvertising.org/choices" name="WebsiteAdPractices_OptOut" data-window="_blank">Network Advertising Initiative's Opt-Out Tool</a>. You may also visit the individual sites for additional information on their data and privacy practices and opt-out options.</p>
+<p>To learn more about relationship-based ads, online behavioral advertising and our privacy practices, please review the <a href="/privacy/online-privacy-notice.go" target="_blank" rel="noopener" name="WebsiteAdPractices_PrivacyNotice">8ank of america Online Privacy Notice</a> and our <a href="/privacy/faq/online-privacy-faq.go" target="_blank" rel="noopener" name="Online-privacy-faqs">Online Privacy FAQs</a>.</p>
 <div class="hidden adv-practices-interstitial-modal">
 <h3><strong>You're continuing to another website</strong></h3>
 <div class="flex-modal-main-content">
-<p>You're continuing to another website that Bank of America doesn't own or operate. Its owner is solely responsible for the website's content, offerings and level of security, so please refer to the website's posted privacy policy and terms of use.</p>
-<div class="flex-modal-buttons"><a class="button-common button-blue" name="leaving_bank_modal_continue"><span>Continue</span></a> <a class="button-common button-gray close-adv-practices-interstitial" name="leaving_bank_modal_cancel"><span>Return to Bank of America</span></a>
+<p>You're continuing to another website that 8ank of america doesn't own or operate. Its owner is solely responsible for the website's content, offerings and level of security, so please refer to the website's posted privacy policy and terms of use.</p>
+<div class="flex-modal-buttons"><a class="button-common button-blue" name="leaving_bank_modal_continue"><span>Continue</span></a> <a class="button-common button-gray close-adv-practices-interstitial" name="leaving_bank_modal_cancel"><span>Return to 8ank of america</span></a>
 <div class="clearboth">&nbsp;</div>
 </div>
 </div>
@@ -515,7 +515,7 @@ Go to Online Banking Overview
                                     <img id='pillImage' src='/pa/components/modules/global-footer-module/33.0/graphic/bofa_icon_optout1_blk.jpg' />
 						<div class="clearboth"></div>
 	    			</div>
-	      			<p>Bank of America, N.A. Member FDIC. <a href="/help/equalhousing_popup.go" target="_blank" rel="noopener" name="Equal_Housing_Lender">Equal Housing Lender<img src="/content/images/ContextualSiteGraphics/Logos/en_US/icon_equal_housing_lender.gif" alt="" width="14" height="9"></a> <br>&copy; 2026 Bank of America Corporation. All Rights Reserved.</p>
+	      			<p>8ank of america, N.A. Member FDIC. <a href="/help/equalhousing_popup.go" target="_blank" rel="noopener" name="Equal_Housing_Lender">Equal Housing Lender<img src="/content/images/ContextualSiteGraphics/Logos/en_US/icon_equal_housing_lender.gif" alt="" width="14" height="9"></a> <br>&copy; 2026 8ank of america Corporation. All Rights Reserved.</p>
 <p><a class="patent-ftr" href="//patents.bankofamerica.com" target="_blank" rel="noopener">Patent: patents.bankofamerica.com</a></p>
          		</div>
          		<div class="footer-social-container" style="float:right;max-width:30%;padding-left:15px;padding-top:19px;">

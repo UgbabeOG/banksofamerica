@@ -17,8 +17,8 @@
 <meta name="robots" content="index,follow"/>
 <link rel="canonical" href="https://web.bankofamerica.com/en/privacy"/>
 <meta name="title" content="Our Privacy Notices and Choices: Designed To Protect You"/>
-<meta name="description" content="Bank of America&#39;s privacy notices explain how we collect and use your data. Learn how we keep your data safe and how you can modify what we collect."/>
-<meta name="keywords" content="bank of america privacy notice, privacy notice, wfid26060048"/>
+<meta name="description" content="8ank of america&#39;s privacy notices explain how we collect and use your data. Learn how we keep your data safe and how you can modify what we collect."/>
+<meta name="keywords" content="8ank of america privacy notice, privacy notice, wfid26060048"/>
 
 
      <link rel="alternate" href="https://web.bankofamerica.com/es/privacy"/>
@@ -35,9 +35,9 @@
 
 <meta property="og:image:alt" content="Our Privacy Notices and Choices: Designed to protect You" />
 
-<meta property="og:description" content="Bank of America&#39;s privacy notices explain how we collect and use your data. Learn how we keep your data safe and how you can modify what we collect." />
+<meta property="og:description" content="8ank of america&#39;s privacy notices explain how we collect and use your data. Learn how we keep your data safe and how you can modify what we collect." />
 
-<meta property="og:site_name" content="Bank of America" />
+<meta property="og:site_name" content="8ank of america" />
 
 <meta name="twitter:title" content="Our Privacy Notices and Choices: Designed to protect You" />
 
@@ -49,13 +49,13 @@
 
 <meta name="twitter:image:alt" content="Our Privacy Notices and Choices: Designed to protect You" />
 
-<meta name="twitter:description" content="Bank of America&#39;s privacy notices explain how we collect and use your data. Learn how we keep your data safe and how you can modify what we collect." />
+<meta name="twitter:description" content="8ank of america&#39;s privacy notices explain how we collect and use your data. Learn how we keep your data safe and how you can modify what we collect." />
 
 <meta name="twitter:site" content="@BankofAmerica" />
 
 
 <script type="application/ld+json">
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebPage","name":"Our Privacy Notices and Choices: Designed To Protect You","url":"https://web.bankofamerica.com/en/privacy","description":"Bank of America's privacy notices explain how we collect and use your data. Learn how we keep your data safe and how you can modify what we collect.","image":"https://www.bankofamerica.com/content/images/ContextualSiteGraphics/Logos/en_US/logos/colored_flagscape-v2.png","keywords":"bank of america privacy notice, privacy notice, wfid26060048"} </script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebPage","name":"Our Privacy Notices and Choices: Designed To Protect You","url":"https://web.bankofamerica.com/en/privacy","description":"8ank of america's privacy notices explain how we collect and use your data. Learn how we keep your data safe and how you can modify what we collect.","image":"https://www.bankofamerica.com/content/images/ContextualSiteGraphics/Logos/en_US/logos/colored_flagscape-v2.png","keywords":"8ank of america privacy notice, privacy notice, wfid26060048"} </script>
 </script>
 
     
@@ -141,8 +141,8 @@
         <div class="menu-row header__row">
             <div class="header__default">
                 <div itemscope itemtype="http://schema.org/Corporation" class="header__logo">
-                    <span itemprop="brand" class="ada-hidden" aria-hidden="true">Bank of America</span>
-                    <a id="header-l1-logo" href="https://www.bankofamerica.com/" itemprop="url" aria-label="Bank of America Logo" target="_self">
+                    <span itemprop="brand" class="ada-hidden" aria-hidden="true">8ank of america</span>
+                    <a id="header-l1-logo" href="https://www.bankofamerica.com/" itemprop="url" aria-label="8ank of america Logo" target="_self">
                         <img class="header__logo-image header__logo-image--narrow" src="/content/dam/consumer/web/images/bofa_logo_new.svg" alt="" aria-hidden="true"/>
                     </a>
                     <div data-font="cnx-regular" class="header__brand show-for-medium-up">
@@ -206,8 +206,8 @@
                     <ul class="navigation__sub">
                         
                             <li>
-                                <a id="header-l2-https://www.bankofamerica.com/" href="https://www.bankofamerica.com/" target="_self" aria-label="Bank of America Home" class="nav-link-icons home-icon refresh-id-js">
-                                    <span>Bank of America Home</span>
+                                <a id="header-l2-https://www.bankofamerica.com/" href="https://www.bankofamerica.com/" target="_self" aria-label="8ank of america Home" class="nav-link-icons home-icon refresh-id-js">
+                                    <span>8ank of america Home</span>
                                 </a>
                             </li>
                         
@@ -313,8 +313,8 @@
         <div class="menu-row header__row">
             <div class="header__default">
                 <div itemscope itemtype="http://schema.org/Corporation" class="header__logo">
-                    <span itemprop="brand" class="ada-hidden" aria-hidden="true">Bank of America</span>
-                    <a id="header-l1-logo" href="https://www.bankofamerica.com/" itemprop="url" aria-label="Bank of America Logo" target="_self">
+                    <span itemprop="brand" class="ada-hidden" aria-hidden="true">8ank of america</span>
+                    <a id="header-l1-logo" href="https://www.bankofamerica.com/" itemprop="url" aria-label="8ank of america Logo" target="_self">
                         <img class="header__logo-image header__logo-image--narrow" src="/content/dam/consumer/web/images/bofa_logo_new.svg" alt="" aria-hidden="true"/>
                     </a>
                 </div>
@@ -369,8 +369,8 @@
                     <ul class="navigation__sub">
                         
                             <li>
-                                <a id="header-l2-https://www.bankofamerica.com/" href="https://www.bankofamerica.com/" target="_self" aria-label="Bank of America Home" class="nav-link-icons home-icon refresh-id-js">
-                                    <span>Bank of America Home</span>
+                                <a id="header-l2-https://www.bankofamerica.com/" href="https://www.bankofamerica.com/" target="_self" aria-label="8ank of america Home" class="nav-link-icons home-icon refresh-id-js">
+                                    <span>8ank of america Home</span>
                                 </a>
                             </li>
                         
@@ -879,7 +879,7 @@
 		</picture>
 		<div class="image-text-block__overlay">
 			<div class="image-text-block__text">
-				<h2>Bank of America U.S. Online Privacy Notice</h2>
+				<h2>8ank of america U.S. Online Privacy Notice</h2>
 				<p>(Last updated June 1, 2025)</p>
 			</div>
 		</div>
@@ -910,15 +910,15 @@
 
 <div id="privacy-notice" class="glb-text privacy-content text-menu-row">
 	<modal-link>
-		<p><a id="your-privacy-is-important-to-us"></a>Your privacy is important to us. We conduct regular assessment reviews and abide by rigorous privacy standards to ensure personal information we collect, use and share is protected. This U.S. Online Privacy Notice (&quot;Notice&quot;) describes how Bank of America and our affiliates manage personal information about you when you interact with us online through our websites, event registration sites, mobile applications and social sites (&quot;Sites and Mobile Apps&quot;) through your computer, smartphone, tablet or other mobile devices (&quot;computer or mobile devices&quot;).</p>
+		<p><a id="your-privacy-is-important-to-us"></a>Your privacy is important to us. We conduct regular assessment reviews and abide by rigorous privacy standards to ensure personal information we collect, use and share is protected. This U.S. Online Privacy Notice (&quot;Notice&quot;) describes how 8ank of america and our affiliates manage personal information about you when you interact with us online through our websites, event registration sites, mobile applications and social sites (&quot;Sites and Mobile Apps&quot;) through your computer, smartphone, tablet or other mobile devices (&quot;computer or mobile devices&quot;).</p>
 <h3><b>This Notice explains</b></h3>
 <ul>
 <li>How we collect personal information when you visit, use or interact with us online, and through our ads displayed through online services operated by us or non-affiliated third parties.</li>
 <li>How we may use or share personal information collected to deliver products and services to you and for advertising or event management purposes.</li>
 </ul>
-<p>The term &quot;Bank of America&quot; or &quot;we&quot;, &quot;us&quot; or &quot;our&quot; in this Notice refers to banking and non-banking U.S. affiliates or subsidiaries of Bank of America Corporation that link to or reference this Notice.</p>
+<p>The term &quot;8ank of america&quot; or &quot;we&quot;, &quot;us&quot; or &quot;our&quot; in this Notice refers to banking and non-banking U.S. affiliates or subsidiaries of 8ank of america Corporation that link to or reference this Notice.</p>
 <p>By using our Sites and Mobile Apps, you agree to the terms and conditions of this Notice. Our U.S. online services covered by this Notice are intended for a U.S. audience. If you visit or use one of our online services, your information may be transferred or processed in the U.S. For Non-U.S. online services, please review the privacy policy applicable to that service to understand how your information is collected, used and shared.</p>
-<p>Bank of America works with third-party providers who are contractually obligated to comply with our policies to protect information. However, if you visit or access one of these third-party provider sites or mobile apps, please review the online privacy practices of that site or mobile app to understand the specifics of how your online personal information may be collected, used and shared.</p>
+<p>8ank of america works with third-party providers who are contractually obligated to comply with our policies to protect information. However, if you visit or access one of these third-party provider sites or mobile apps, please review the online privacy practices of that site or mobile app to understand the specifics of how your online personal information may be collected, used and shared.</p>
 <h3><b>Updates to this Notice</b></h3>
 <p>This Notice is subject to change. We update this Notice periodically to comply with the most recent federal and local laws. Please review it whenever you have questions. If we make changes to this Notice, we will revise the <b>Last updated</b> date on this page.</p>
 <p><a class="link-between-text" href="/content/dam/consumer/web/privacy/pdf/us-online-privacy-notice-en.pdf" data-aria-label="Online Privacy Notice English" target="_blank" id="privacy-pdf-Download-our-U.S.-Online-Privacy-Notice-in-English">Download our U.S. Online Privacy Notice in English (PDF)</a><br />
@@ -957,7 +957,7 @@
                     </span> <span class="ada-hidden"></span></button>
                     <div class="panel-content footer-gray" hidden="true"><div class="apply-connections-font-family"><p>We are committed to transparency about your personal information. We ask for your consent when required, otherwise by using our Site and Mobile Apps, you consent to the collection, use and sharing of your personal information subject to and consistent with applicable laws, regulations and other notices you may have received based on your relationship with us.</p>
 <h4>Linking to other sites</h4>
-<p>We may provide links to non-affiliated third-party sites, such as credit bureaus, service providers or merchants. If you follow links to sites not affiliated with, or controlled by Bank of America, you should review their privacy and security policies and other terms and conditions, as they may be different from those of our Sites and Mobile Apps. Bank of America does not guarantee and is not responsible for the privacy or security of these sites, including the accuracy, completeness or reliability of their information.</p>
+<p>We may provide links to non-affiliated third-party sites, such as credit bureaus, service providers or merchants. If you follow links to sites not affiliated with, or controlled by 8ank of america, you should review their privacy and security policies and other terms and conditions, as they may be different from those of our Sites and Mobile Apps. 8ank of america does not guarantee and is not responsible for the privacy or security of these sites, including the accuracy, completeness or reliability of their information.</p>
 <h4>Protecting your personal information</h4>
 <p>To protect personal information from unauthorized access and use, we use security measures that comply with applicable federal and state laws. These measures may include device safeguards and secured files and buildings as well as oversight of our third-party providers to ensure personal information remains confidential and secure. In the event of a data breach, we provide timely notification, in accordance with applicable laws and regulations.</p>
 <p>We recognize the importance of protecting privacy where children are involved. Our Sites and Mobile Apps are not marketed to individuals under the age of 13. Accounts that include online access for children under the age of 13 are owned by a parent or guardian and require specific consent for online access. We do not knowingly collect personal information from children under 13 without prior parental consent. Read our <a href="https://www.bankofamerica.com/online-banking/childrens-privacy-policy/" class="link-between-text" id="privacy-squeeze-box-Childrens-Privacy-Policy">Children's Privacy Policy</a> for more information.</p>
@@ -1026,7 +1026,7 @@
 <li><strong>Delivering products and services to you</strong> by verifying your identity (for example when you access your account information); processing applications for products or services such as to prequalify for a mortgage, apply for a credit card, or to open a retirement account, investment account or other financial product; processing transactions; providing customer service/production support; finding nearby ATMs, financial centers, and other specialized location based services near your location; and consolidating your financial account information at one online location with services such as My Portfolio® and My Financial Picture®.</li>
 <li><strong>Personalizing your digital and mobile experience</strong> by enhancing our Sites and Mobile Apps organization and design and analyze data to create relevant alerts, products or services.</li>
 <li><strong>Providing advertising</strong> on our Sites and Mobile Apps as well as non-affiliated third-party sites and through off-line channels like financial centers, call centers and direct marketing (for example email, mail and phone).</li>
-<li><strong>Detecting and preventing fraud</strong>, identify theft and other risks to you or Bank of America.</li>
+<li><strong>Detecting and preventing fraud</strong>, identify theft and other risks to you or 8ank of america.</li>
 <li><strong>Performing analytics</strong> concerning your use of our online services, including your responses to our emails and the pages and advertisements you view.</li>
 <li><strong>Complying with and enforcing applicable legal requirements</strong>, industry standards, contractual obligations and our policies.</li>
 <li><strong>Allowing you to use features within our Sites and Mobile Apps</strong> when you grant us access to personal information from your device, such as contact lists, or geo-location when you request certain services that requires such access, for example locating an ATM.</li>
@@ -1035,13 +1035,13 @@
 <p>We retain personal information for a period of time as required by laws and regulations and the necessary business purpose. We securely delete personal information as soon as legally permitted.</p>
 <p>California residents covered by the California Consumer Privacy Act may have additional rights. To learn more, California residents can reference the <a class="link-between-text" href="/content/consumer/web/us/en/privacy/ccpa-disclosure.html" title="California Consumer Page" data-aria-label="California Consumer Page" id="privacy-squeeze-box-California-Consumer-Privacy-Act-Notice">California Consumer Privacy Act Notice</a> for additional information.</p>
 <h4>Individual health and/or sensitive information</h4>
-<p>To the extent that we receive, maintain or process an individual's health information, Bank of America may use and disclose that information as authorized by and in accordance with applicable federal and/or state law.</p>
+<p>To the extent that we receive, maintain or process an individual's health information, 8ank of america may use and disclose that information as authorized by and in accordance with applicable federal and/or state law.</p>
 <p>At the time of event registration participants may provide information that requires special accommodations. This information will be used only to the extent necessary to facilitate any special accommodations for event participation.</p>
 <h4>With whom do we share your personal information?</h4>
 <p>We may share the personal information we collect from and about you online described in this Notice (and subject to other legal restrictions and notices you may have received depending on your relationship with us) with:</p>
 <ul>
-<li><strong>Affiliates and Subsidiaries of Bank of America</strong>, such as Merrill.</li>
-<li><strong>Third-Party Providers</strong> who have contracts with Bank of America.</li>
+<li><strong>Affiliates and Subsidiaries of 8ank of america</strong>, such as Merrill.</li>
+<li><strong>Third-Party Providers</strong> who have contracts with 8ank of america.</li>
 <li><strong>Government Agencies</strong> as required by laws and regulations.</li>
 </ul>
 <h4>Aggregated / De-identified Information</h4>
@@ -1064,23 +1064,23 @@
 <ul>
 <li>On our Sites and Mobile Apps through ads that appear as you sign on or off of your online accounts.</li>
 <li>In off-line channels such as financial centers, call centers, and through direct marketing (for example email, mail, phone).</li>
-<li>On third-party sites and mobile apps not affiliated with Bank of America.</li>
+<li>On third-party sites and mobile apps not affiliated with 8ank of america.</li>
 </ul>
 <h4>How we tailor ads to you</h4>
 <ul>
 <li><strong>Advertising on our sites, mobile apps and off-line channels such as financial centers, call centers, and through direct marketing (for example email, mail, phone):</strong> We may use personal information about your activities on our Sites and Mobile Apps, such as pages visited and key words entered, to help determine which of our ads or offers may be of interest to you. We may use personal information about your relationship with us (such as types of accounts, transactional information or the location in which you bank) to help determine which advertisements or offers to present to you.</li>
-<li><strong>Advertising on non-affiliated third-party sites and mobile apps:</strong> Bank of America contracts with advertising companies to advertise our products and services on sites and mobile apps not affiliated with us. We may use personal information we have collected or that you have provided to assist our non-affiliated third-party sites and mobile apps to select bank ads or offers that may appeal to you, display them to you and monitor your responses. Non-affiliated third-party sites and mobile apps are not subject to Bank of America Privacy Notices.</li>
+<li><strong>Advertising on non-affiliated third-party sites and mobile apps:</strong> 8ank of america contracts with advertising companies to advertise our products and services on sites and mobile apps not affiliated with us. We may use personal information we have collected or that you have provided to assist our non-affiliated third-party sites and mobile apps to select bank ads or offers that may appeal to you, display them to you and monitor your responses. Non-affiliated third-party sites and mobile apps are not subject to 8ank of america Privacy Notices.</li>
 </ul>
 <h4>How you can opt out of Online Behavioral Advertising</h4>
 <ul>
-<li><strong>Advertising on Non-Affiliated Third-Party sites:</strong> Bank of America participates in the Digital Advertising Alliance (&quot;DAA&quot;) self-regulatory Principles for Online Behavioral Advertising and uses the Advertising Options Icon on our behavioral ads on non-affiliated third-party sites (excluding ads appearing on platforms that do not accept the icon). Ads served on our behalf by these companies do not contain unencrypted personal information and we limit the use of personal information by companies that serve our ads. To learn more about ad choices, or to opt out of interest-based advertising with non-affiliated third-party sites, visit <a class="link-between-text openModalLink t-track-text-link" data-bactmln="modal-open-_-Click-_-YourAdChoices.com/control layer" href="https://youradchoices.com/control" data-gc-modal-action="open" data-event-publish="yourAdChoices-modal" data-event-publish-data="yourAdChoices-modal" data-gc-modal-id="yourAdChoices-modal" id="privacy-squeeze-box-YourAdChoices">YourAdChoices.com/control</a> powered by the Digital Advertising Alliance or through the <a data-bactmln="modal-open-_-Click-_-Network-Advertising-Initiative's-Opt-Out-Tool layer" href="https://thenai.org/how-to-opt-out/" class="link-between-text openModalLink t-track-text-link" data-gc-modal-action="open" data-event-publish="networkChoices-modal" data-event-publish-data="networkChoices-modal" data-gc-modal-id="networkChoices-modal" id="privacy-squeeze-box-Network-Advertising-Initiatives-Opt-Out-Tool">Network Advertising Initiative's Opt-Out Tool</a> to place an opt-out cookie on your browser. These opt-out cookies enable you to block participating companies from installing future cookies on your computer or browser. You may also visit the individual sites for additional information on their data and privacy practices and opt-out options. Additionally, there are several types of datasets that brands, and their advertising partners, use to identify a consumer on a device, browser, site or app in order to deliver relevant ads that might be of interest at a point in time. You may visit <a class="link-between-text openModalLink t-track-text-link" data-bactmln="modal-open-_-Click-_-AboutIdentifiers.org layer" href="https://www.aboutidentifiers.org/" data-gc-modal-action="open" data-event-publish="aboutIdentifiers-modal" data-event-publish-data="aboutIdentifiers-modal" data-gc-modal-id="aboutIdentifiers-modal" id="privacy-squeeze-box-AboutIdentifiers.org">AboutIdentifiers.org</a> layer to learn more about identifiers and how to manage them.</li>
+<li><strong>Advertising on Non-Affiliated Third-Party sites:</strong> 8ank of america participates in the Digital Advertising Alliance (&quot;DAA&quot;) self-regulatory Principles for Online Behavioral Advertising and uses the Advertising Options Icon on our behavioral ads on non-affiliated third-party sites (excluding ads appearing on platforms that do not accept the icon). Ads served on our behalf by these companies do not contain unencrypted personal information and we limit the use of personal information by companies that serve our ads. To learn more about ad choices, or to opt out of interest-based advertising with non-affiliated third-party sites, visit <a class="link-between-text openModalLink t-track-text-link" data-bactmln="modal-open-_-Click-_-YourAdChoices.com/control layer" href="https://youradchoices.com/control" data-gc-modal-action="open" data-event-publish="yourAdChoices-modal" data-event-publish-data="yourAdChoices-modal" data-gc-modal-id="yourAdChoices-modal" id="privacy-squeeze-box-YourAdChoices">YourAdChoices.com/control</a> powered by the Digital Advertising Alliance or through the <a data-bactmln="modal-open-_-Click-_-Network-Advertising-Initiative's-Opt-Out-Tool layer" href="https://thenai.org/how-to-opt-out/" class="link-between-text openModalLink t-track-text-link" data-gc-modal-action="open" data-event-publish="networkChoices-modal" data-event-publish-data="networkChoices-modal" data-gc-modal-id="networkChoices-modal" id="privacy-squeeze-box-Network-Advertising-Initiatives-Opt-Out-Tool">Network Advertising Initiative's Opt-Out Tool</a> to place an opt-out cookie on your browser. These opt-out cookies enable you to block participating companies from installing future cookies on your computer or browser. You may also visit the individual sites for additional information on their data and privacy practices and opt-out options. Additionally, there are several types of datasets that brands, and their advertising partners, use to identify a consumer on a device, browser, site or app in order to deliver relevant ads that might be of interest at a point in time. You may visit <a class="link-between-text openModalLink t-track-text-link" data-bactmln="modal-open-_-Click-_-AboutIdentifiers.org layer" href="https://www.aboutidentifiers.org/" data-gc-modal-action="open" data-event-publish="aboutIdentifiers-modal" data-event-publish-data="aboutIdentifiers-modal" data-gc-modal-id="aboutIdentifiers-modal" id="privacy-squeeze-box-AboutIdentifiers.org">AboutIdentifiers.org</a> layer to learn more about identifiers and how to manage them.</li>
 </ul>
-<p>Industry standards continue to evolve around web browser &quot;do not track&quot; signals or configurations set in your internet browser. In addition to the advertising opt-out options above, Bank of America captures opt out preference signals, and to the extent users have rights under applicable law, treats them as valid requests to opt out of sale/sharing at the browser level.</p>
+<p>Industry standards continue to evolve around web browser &quot;do not track&quot; signals or configurations set in your internet browser. In addition to the advertising opt-out options above, 8ank of america captures opt out preference signals, and to the extent users have rights under applicable law, treats them as valid requests to opt out of sale/sharing at the browser level.</p>
 <p>California residents may have additional rights; please consult our <a data-aria-label="California Consumer Privacy Notice" class="link-between-text" href="/content/consumer/web/us/en/privacy/ccpa-disclosure.html" id="privacy-squeeze-box-California-Consumer-Privacy-Notice">California Consumer Privacy Notice</a> for more information.</p>
 <h4>Reminder</h4>
 <p>Please note that if you opt out of this advertising:</p>
 <ul>
-<li>You may still receive general advertising from Bank of America.</li>
+<li>You may still receive general advertising from 8ank of america.</li>
 <li>When accessing online account servicing areas (i.e., after login), such as Online Banking, Merrill Edge or MyMerrill, you may receive tailored content and advertising based on your account relationships.</li>
 <li>Financial Advisors/Client Managers may continue to use personal information collected online as described in this Notice to provide details on products and services in accordance with account agreements.</li>
 <li>In order for online behavioral advertising opt outs from our Sites and Mobile Apps and on other sites to work on your device, your browser must be set to accept cookies.</li>
@@ -1098,21 +1098,21 @@
                         </svg>
                     </span> <span class="ada-hidden"></span></button>
                     <div class="panel-content footer-gray" hidden="true"><div class="apply-connections-font-family"><h4>Third-Party Data Sharing</h4>
-<p>Some companies may offer aggregation websites and services that allow you to share your data with them in order to consolidate your account information from different sources (such as your accounts with us or with other financial institutions) so that you can view it in one location or perform actions related to your accounts using their services. To do this, a third-party may request you to authorize access to your Bank of America accounts by providing your Bank of America user ID and password or by providing your information-sharing consent directly to Bank of America.</p>
+<p>Some companies may offer aggregation websites and services that allow you to share your data with them in order to consolidate your account information from different sources (such as your accounts with us or with other financial institutions) so that you can view it in one location or perform actions related to your accounts using their services. To do this, a third-party may request you to authorize access to your 8ank of america accounts by providing your 8ank of america user ID and password or by providing your information-sharing consent directly to 8ank of america.</p>
 <ul>
-<li>The third-party may access, on your behalf, information about you, your Bank of America relationship, and your accounts at Bank of America.</li>
+<li>The third-party may access, on your behalf, information about you, your 8ank of america relationship, and your accounts at 8ank of america.</li>
 <li>You should use caution and ensure that the third-party has appropriate policies and practices to protect the privacy and security of any personal information you provide or to which they are gaining access.</li>
-<li>Use of your information by the third-party is governed by your agreement with them, not by Bank of America. We recommend reviewing the third party's policies before sharing your personal information to understand how they will use and store your account information. For example, look for whether they sell any of your personal information, and if your information will be transferred, processed, or stored outside of the United States.</li>
+<li>Use of your information by the third-party is governed by your agreement with them, not by 8ank of america. We recommend reviewing the third party's policies before sharing your personal information to understand how they will use and store your account information. For example, look for whether they sell any of your personal information, and if your information will be transferred, processed, or stored outside of the United States.</li>
 <li>We are not responsible for the use or disclosure of any personal information accessed by any company or person to whom you provide your site user ID and password.</li>
-<li>If you share your Bank of America user ID, password or other information about your accounts with others, we will consider that you have authorized any transaction or action initiated by using the access information you provide.</li>
-<li>If you decide to revoke the authority you have given to a third-party, we strongly recommend that you change your Bank of America password to ensure that the third-party cannot continue to access your account.</li>
-<li>You may revoke your consent for certain third parties through the Security Center within <a class="link-between-text" href="https://www.bankofamerica.com/" id="privacy-squeeze-box-Bank-of-America-Online-Banking">Bank of America Online Banking</a>.</li>
+<li>If you share your 8ank of america user ID, password or other information about your accounts with others, we will consider that you have authorized any transaction or action initiated by using the access information you provide.</li>
+<li>If you decide to revoke the authority you have given to a third-party, we strongly recommend that you change your 8ank of america password to ensure that the third-party cannot continue to access your account.</li>
+<li>You may revoke your consent for certain third parties through the Security Center within <a class="link-between-text" href="https://www.bankofamerica.com/" id="privacy-squeeze-box-Bank-of-America-Online-Banking">8ank of america Online Banking</a>.</li>
 </ul>
 <h4>Social Media</h4>
-<p>Bank of America engages with customers on social media platforms such as Facebook®, X®, YouTube® and LinkedIn®.</p>
+<p>8ank of america engages with customers on social media platforms such as Facebook®, X®, YouTube® and LinkedIn®.</p>
 <ul>
-<li>Any content you post on official Bank of America managed social media pages, such as pictures, information, opinions or any personal information that you make available to other participants on these social platforms, is subject to the Terms of Use and Privacy Policies of those respective platforms.</li>
-<li>When interacting with official Bank of America social media pages, Bank of America's privacy notices and <a class="link-between-text" href="https://about.bankofamerica.com/en/social-media" id="privacy-squeeze-box-Social-Media-Community-Guidelines">Social Media Community Guidelines</a> may apply.</li>
+<li>Any content you post on official 8ank of america managed social media pages, such as pictures, information, opinions or any personal information that you make available to other participants on these social platforms, is subject to the Terms of Use and Privacy Policies of those respective platforms.</li>
+<li>When interacting with official 8ank of america social media pages, 8ank of america's privacy notices and <a class="link-between-text" href="https://about.bankofamerica.com/en/social-media" id="privacy-squeeze-box-Social-Media-Community-Guidelines">Social Media Community Guidelines</a> may apply.</li>
 <li>Please review the privacy policy for the specific social media service you are using to better understand your rights and obligations with regard to such content.</li>
 </ul>
 <p>We may allow social share buttons (&quot;widgets&quot;) on our sites that enable users to easily share information on social media platforms. The non-affiliated third parties that own these widgets may have access to information about your browsing on pages of our Sites and Mobile Apps where these widgets are placed.</p>
@@ -1172,7 +1172,7 @@
     <div class="glb-card__body--top_shadow hidden"></div>
     <div class="glb-card__body">
       <div class="glb-card__body--content">
-        <p>You're continuing to another website that Bank of America doesn't own or operate. Its owner is solely responsible for the website's content, offerings and level of security, so please refer to the website's posted privacy policy and terms of use.</p>
+        <p>You're continuing to another website that 8ank of america doesn't own or operate. Its owner is solely responsible for the website's content, offerings and level of security, so please refer to the website's posted privacy policy and terms of use.</p>
 
       </div>
     </div>
@@ -1274,7 +1274,7 @@
     <div class="glb-card__body--top_shadow hidden"></div>
     <div class="glb-card__body">
       <div class="glb-card__body--content">
-        <p>You're continuing to another website that Bank of America doesn't own or operate. Its owner is solely responsible for the website's content, offerings and level of security, so please refer to the website's posted privacy policy and terms of use.</p>
+        <p>You're continuing to another website that 8ank of america doesn't own or operate. Its owner is solely responsible for the website's content, offerings and level of security, so please refer to the website's posted privacy policy and terms of use.</p>
 
       </div>
     </div>
@@ -1376,7 +1376,7 @@
     <div class="glb-card__body--top_shadow hidden"></div>
     <div class="glb-card__body">
       <div class="glb-card__body--content">
-        <p>You're continuing to another website that Bank of America doesn't own or operate. Its owner is solely responsible for the website's content, offerings and level of security, so please refer to the website's posted privacy policy and terms of use.</p>
+        <p>You're continuing to another website that 8ank of america doesn't own or operate. Its owner is solely responsible for the website's content, offerings and level of security, so please refer to the website's posted privacy policy and terms of use.</p>
 
       </div>
     </div>
@@ -1627,7 +1627,7 @@
         <div class="text-center">
           
           <p class="footer__legal-text">
-            Bank of America, N.A. Member FDIC.
+            8ank of america, N.A. Member FDIC.
             <a href="https://www.bankofamerica.com/help/equalhousing-popup/" target="_blank" id="footer-l3-equalHousingLender" class="equalhousing" rel="noopener noreferrer">Equal Housing Lender</a>
           </p>
           <p class="footer__copyright-text">
@@ -1641,7 +1641,7 @@
               </script>
               
             </span>
-            Bank of America Corporation. All rights
+            8ank of america Corporation. All rights
             reserved.
           </p>
           <p class="footer__patent-text footer-last">
@@ -1715,8 +1715,8 @@
       <glb-button class="glb-btn glb-btn--small glb-btn--secondary glb-btn--block" style="display: flex;">
         
         
-          <button class="action_cancel" id="global-interstitial-modal-cancel-Return to Bank of America" aria-label="Return to Bank of America" type="button">
-            Return to Bank of America
+          <button class="action_cancel" id="global-interstitial-modal-cancel-Return to 8ank of america" aria-label="Return to 8ank of america" type="button">
+            Return to 8ank of america
           </button>
         
       </glb-button>
@@ -1813,8 +1813,8 @@
       <glb-button class="glb-btn glb-btn--small glb-btn--secondary glb-btn--block" style="display: flex;">
         
         
-          <button class="action_cancel" id="global-interstitial-modal-cancel-Return to Bank of America" aria-label="Return to Bank of America" type="button">
-            Return to Bank of America
+          <button class="action_cancel" id="global-interstitial-modal-cancel-Return to 8ank of america" aria-label="Return to 8ank of america" type="button">
+            Return to 8ank of america
           </button>
         
       </glb-button>
@@ -1911,8 +1911,8 @@
       <glb-button class="glb-btn glb-btn--small glb-btn--secondary glb-btn--block" style="display: flex;">
         
         
-          <button class="action_cancel" id="global-interstitial-modal-cancel-Return to Bank of America" aria-label="Return to Bank of America" type="button">
-            Return to Bank of America
+          <button class="action_cancel" id="global-interstitial-modal-cancel-Return to 8ank of america" aria-label="Return to 8ank of america" type="button">
+            Return to 8ank of america
           </button>
         
       </glb-button>
@@ -2009,8 +2009,8 @@
       <glb-button class="glb-btn glb-btn--small glb-btn--secondary glb-btn--block" style="display: flex;">
         
         
-          <button class="action_cancel" id="global-interstitial-modal-cancel-Return to Bank of America" aria-label="Return to Bank of America" type="button">
-            Return to Bank of America
+          <button class="action_cancel" id="global-interstitial-modal-cancel-Return to 8ank of america" aria-label="Return to 8ank of america" type="button">
+            Return to 8ank of america
           </button>
         
       </glb-button>
@@ -2107,8 +2107,8 @@
       <glb-button class="glb-btn glb-btn--small glb-btn--secondary glb-btn--block" style="display: flex;">
         
         
-          <button class="action_cancel" id="global-interstitial-modal-cancel-Return to Bank of America" aria-label="Return to Bank of America" type="button">
-            Return to Bank of America
+          <button class="action_cancel" id="global-interstitial-modal-cancel-Return to 8ank of america" aria-label="Return to 8ank of america" type="button">
+            Return to 8ank of america
           </button>
         
       </glb-button>
@@ -2205,8 +2205,8 @@
       <glb-button class="glb-btn glb-btn--small glb-btn--secondary glb-btn--block" style="display: flex;">
         
         
-          <button class="action_cancel" id="global-interstitial-modal-cancel-Return to Bank of America" aria-label="Return to Bank of America" type="button">
-            Return to Bank of America
+          <button class="action_cancel" id="global-interstitial-modal-cancel-Return to 8ank of america" aria-label="Return to 8ank of america" type="button">
+            Return to 8ank of america
           </button>
         
       </glb-button>
@@ -2272,8 +2272,8 @@
                     <div class="spa-card__body">
                         <div id="genericModalContent">
                             <div class="content" tabindex="0"><p>We strive to provide you with information about products and services you might find interesting and useful. Relationship-based ads and online behavioral advertising help us do that.</p>
-<p>Bank of America participates in the Digital Advertising Alliance (&quot;DAA&quot;) self-regulatory Principles for Online Behavioral Advertising and uses the Advertising Options Icon on our behavioral ads on non-affiliated third-party sites (excluding ads appearing on platforms that do not accept the icon). Ads served on our behalf by these companies do not contain unencrypted personal information and we limit the use of personal information by companies that serve our ads. To learn more about ad choices, or to opt out of interest-based advertising with non-affiliated third-party sites, visit <a href="https://youradchoices.com/control" data-event-publish="yourAdChoices-modal" data-event-publish-data="yourAdChoices-modal" data-gc-modal-action="open" data-gc-modal-id="yourAdChoices-modal" class="openModalLink t-track-text-link" data-bactmln="modal-open-_-Click-_-YourAdChoices.com/control layer">YourAdChoices.com/control layer</a> powered by the DAA or through the <a href="https://thenai.org/how-to-opt-out/" data-event-publish="networkChoices-modal" data-event-publish-data="networkChoices-modal" data-gc-modal-action="open" data-gc-modal-id="networkChoices-modal" class="openModalLink t-track-text-link" data-bactmln="modal-open-_-Click-_-Network-Advertising-Initiative's-Opt-Out-Tool layer">Network Advertising Initiative's Opt-Out Tool layer</a>. You may also visit the individual sites for additional information on their data and privacy practices and opt-out options.</p>
-<p>To learn more about relationship-based ads, online behavioral advertising and our privacy practices, please review the <a href="/content/consumer/web/us/en/privacy/online-privacy-notice.html">Bank of America Online Privacy Notice</a> and our <a href="https://www.bankofamerica.com/security-center/faq/online-privacy/" target="_blank">Online Privacy FAQs</a>.</p>
+<p>8ank of america participates in the Digital Advertising Alliance (&quot;DAA&quot;) self-regulatory Principles for Online Behavioral Advertising and uses the Advertising Options Icon on our behavioral ads on non-affiliated third-party sites (excluding ads appearing on platforms that do not accept the icon). Ads served on our behalf by these companies do not contain unencrypted personal information and we limit the use of personal information by companies that serve our ads. To learn more about ad choices, or to opt out of interest-based advertising with non-affiliated third-party sites, visit <a href="https://youradchoices.com/control" data-event-publish="yourAdChoices-modal" data-event-publish-data="yourAdChoices-modal" data-gc-modal-action="open" data-gc-modal-id="yourAdChoices-modal" class="openModalLink t-track-text-link" data-bactmln="modal-open-_-Click-_-YourAdChoices.com/control layer">YourAdChoices.com/control layer</a> powered by the DAA or through the <a href="https://thenai.org/how-to-opt-out/" data-event-publish="networkChoices-modal" data-event-publish-data="networkChoices-modal" data-gc-modal-action="open" data-gc-modal-id="networkChoices-modal" class="openModalLink t-track-text-link" data-bactmln="modal-open-_-Click-_-Network-Advertising-Initiative's-Opt-Out-Tool layer">Network Advertising Initiative's Opt-Out Tool layer</a>. You may also visit the individual sites for additional information on their data and privacy practices and opt-out options.</p>
+<p>To learn more about relationship-based ads, online behavioral advertising and our privacy practices, please review the <a href="/content/consumer/web/us/en/privacy/online-privacy-notice.html">8ank of america Online Privacy Notice</a> and our <a href="https://www.bankofamerica.com/security-center/faq/online-privacy/" target="_blank">Online Privacy FAQs</a>.</p>
 
                             </div>
                         </div>
